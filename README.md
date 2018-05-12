@@ -40,6 +40,8 @@
 - [Material Theme](#material-theme-kurulumu)
 - [Emmet CSS Snippets](#emmet-css-snippets-kurulumu)
 - [GitGutter](#gitgutter-kurulumu)
+- [Bootstrap 3 Autocomplete](#bootstrap-3-autocomplete-kurulumu)
+- [Bootstrap 4 Autocomplete](#bootstrap-4-autocomplete-kurulumu)
 
 -----
 
@@ -345,6 +347,21 @@ Daha fazla örnek için **[Emmet CSS Snippets](http://peiwen.lu/Emmet-Css-Snippe
 1. **CTRL+Shift+P** tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **​GitGutter** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
+
+## [Bootstrap 3 Autocomplete Kurulumu](https://packagecontrol.io/packages/Bootstrap%203%20Autocomplete)
+
+1. **CTRL+Shift+P** tuşuna basın.
+2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
+3. Bir sonra açılan kutucuğa **Bootstrap 3 Autocomplete** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
+
+## [Bootstrap 4 Autocomplete Kurulumu](https://packagecontrol.io/packages/Bootstrap%204%20Autocomplete)
+
+1. **CTRL+Shift+P** tuşuna basın.
+2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
+3. Bir sonra açılan kutucuğa **Bootstrap 4 Autocomplete** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
 
 ## License
 
