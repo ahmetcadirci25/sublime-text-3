@@ -19,7 +19,7 @@
 
 <br>
 
-[![GitHub stars](https://img.shields.io/github/stars/ahmetcadirci25/sublime-text-3.svg)](https://github.com/ahmetcadirci25/sublime-text-3/stargazers) [![GitHub forks](https://img.shields.io/github/forks/ahmetcadirci25/sublime-text-3.svg)](https://github.com/ahmetcadirci25/sublime-text-3/network) [![GitHub issues](https://img.shields.io/github/issues/ahmetcadirci25/sublime-text-3.svg)](https://github.com/ahmetcadirci25/sublime-text-3/issues) [![GitHub license](https://img.shields.io/github/license/ahmetcadirci25/sublime-text-3.svg)](https://github.com/ahmetcadirci25/sublime-text-3/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/ahmetcadirci25/sublime-text-3.svg)](https://github.com/ahmetcadirci25/sublime-text-3/stargazers) [![GitHub forks](https://img.shields.io/github/forks/ahmetcadirci25/sublime-text-3.svg)](https://github.com/ahmetcadirci25/sublime-text-3/network) [![GitHub issues](https://img.shields.io/github/issues/ahmetcadirci25/sublime-text-3.svg)](https://github.com/ahmetcadirci25/sublime-text-3/issues) [![GitHub license](https://img.shields.io/github/license/ahmetcadirci25/sublime-text-3.svg)](https://github.com/ahmetcadirci25/sublime-text-3/blob/master/LICENSE) [![Build Status](https://travis-ci.org/ahmetcadirci25/sublime-text-3.svg?branch=master)](https://travis-ci.org/ahmetcadirci25/sublime-text-3)
 
 ## İçindekiler
 
