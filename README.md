@@ -67,6 +67,8 @@ Sublime Text eklentileri yüklemek ve yönetmek için süper kolay ve kullanış
 
 ## [Emmet Kurulumu](https://packagecontrol.io/packages/Emmet)
 
+Kısaca kolay kod yazmanız için imkan sağlayan bir eklentidir. Dinamik olarak kısaltmada yazdığınız şeye bağlı olarak çıktı üretebilirsiniz. Kullanımı son derece basittir. Emmet web geliştiricileri için temel araç setidir. [Döküman](https://docs.emmet.io/) sayfasını ziyaret ederek daha fazla bilgi edinebilirsiniz. 
+
 1. **CTRL+Shift+P** tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **Emmet** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
