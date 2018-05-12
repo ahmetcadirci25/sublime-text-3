@@ -9,7 +9,9 @@
     <br>
     <a href="https://ahmetcadirci.com.tr/sublime-text-3/">Sublime Text 3</a>
     ·
-    ·<a href="https://github.com/ahmetcadirci25/sublime-text-3/issues/new?template=Bug_report.md">Hata Bildir</a>
+    <a href="https://github.com/ahmetcadirci25/sublime-text-3/blob/master/.github/CODE_OF_CONDUCT.md">Katkıda Bulun</a>
+    ·
+    <a href="https://github.com/ahmetcadirci25/sublime-text-3/issues/new?template=Bug_report.md">Hata Bildir</a>
     ·
     <a href="https://github.com/ahmetcadirci25/sublime-text-3/issues/new?template=Feature_request.md">Yeni İçerik</a>
     ·
