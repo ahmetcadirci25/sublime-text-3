@@ -1,3 +1,11 @@
+<div align="center">
+	<img width="500" src="media/logo.svg" alt="Sublime Text 3">
+	<br>
+	<br>
+</div>
+
+<br>
+
 ## Sublime Text 3
 
 Sublime Text 3 Kurulumu ve Popüler Eklentilerinin Yüklenmesi
