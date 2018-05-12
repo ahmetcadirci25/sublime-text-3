@@ -1,4 +1,8 @@
+## Sublime Text 3
+
 Sublime Text 3 Kurulumu ve Popüler Eklentilerinin Yüklenmesi
+
+---
 
 ## Hızlı Erişim
 
@@ -31,6 +35,8 @@ Sublime Text 3 Kurulumu ve Popüler Eklentilerinin Yüklenmesi
 - [Material Theme](#22-material-theme-kurulumu)
 - [Emmet](#23-emmet-kurulumu)
 - [GitGutter](#24-gitgutter-kurulumu)
+
+-----
 
 ### Sublime Text 3 İndir
 
