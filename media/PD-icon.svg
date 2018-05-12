@@ -1,10 +1,20 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="196" height="196">
-    <circle cx="98" cy="98" r="98" fill="#808080" />
-    <circle cx="98" cy="98" r="78" fill="#fff" />
-    <circle cx="98" cy="98" r="55" fill="#808080" />
-    <circle cx="98" cy="98" r="30" fill="#fff" />
-    <rect width="31" height="25" x="123" y="85" fill="#fff" />
-    <rect width="20.5" height="100" transform="matrix(1,1,-1,1,137.75,37.75)" fill="#fff" />
-    <rect width="17.5" height="120" transform="matrix(1,1,-1,1,149.25,29.25)" fill="#808080" />
+<svg id="PD-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60">
+    <defs>
+        <style>
+        .cls-1 {
+            fill: gray;
+        }
+
+        .cls-2 {
+            fill: #fff;
+        }
+        </style>
+    </defs>
+    <circle id="Ellipse_1" data-name="Ellipse 1" class="cls-1" cx="30" cy="30" r="30" />
+    <circle id="Ellipse_2" data-name="Ellipse 2" class="cls-2" cx="23.878" cy="23.878" r="23.878" transform="translate(6.122 6.122)" />
+    <circle id="Ellipse_3" data-name="Ellipse 3" class="cls-1" cx="16.837" cy="16.837" r="16.837" transform="translate(13.163 13.163)" />
+    <circle id="Ellipse_4" data-name="Ellipse 4" class="cls-2" cx="9.184" cy="9.184" r="9.184" transform="translate(20.816 20.816)" />
+    <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-2" width="9.49" height="7.653" transform="translate(37.653 26.02)" />
+    <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-2" width="8.875" height="43.292" transform="translate(42.168 11.556) rotate(45)" />
+    <rect id="Rectangle_3" data-name="Rectangle 3" class="cls-1" width="7.576" height="51.951" transform="translate(45.689 8.954) rotate(45)" />
 </svg>
