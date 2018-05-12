@@ -2,41 +2,41 @@ Sublime Text 3 Kurulumu ve Popüler Eklentilerinin Yüklenmesi
 
 ## Hızlı Erişim
 
-1. [Sublime Text 3 İndir](#1-sublime-text-3-İndir)
-2. [Package Control](#2-package-control-kurulumu)
-3. [Emmet](#3-emmet-kurulumu)
-4. [Sidebar Enhancements](#4-sidebar-enhancements-kurulumu)
-5. [Sublime​Linter](#5-sublimelinter-kurulumu)
-	1. [SublimeLinter-csslint](#51-sublimelinter-csslint-kurulumu)
-	2. [SublimeLinter-jshint](#52-sublimelinter-jshint-kurulumu)
-	3. [SublimeLinter-contrib-scss-lint](#53-sublimelinter-contrib-scss-lint-kurulumu)
-	4. [SublimeLinter-contrib-sass-lint](#54-sublimelinter-contrib-sass-lint-kurulumu)
-	5. [SublimeLinter-contrib-htmlhint](#55-sublimelinter-contrib-htmlhint-kurulumu)
-6. [BracketHighlighter](#6-brackethighlighter-kurulumu)
-7. [Sublime​Code​Intel](#7-sublimecodeintel-kurulumu)
-8. [HTML5](#8-html5-kurulumu)
-9. [Alignment](#9-alignment-kurulumu)
-10. [Sass](#10-sass-kurulumu)
-11. [Color​Picker](#11-colorpicker-kurulumu)
-12. [j​Query](#12-jquery-kurulumu)
-13. [Git](#13-git-kurulumu)
-14. [FTPSync](#14-ftpsync-kurulumu)
-15. [DocBlockr](#15-docblockr-kurulumu)
-16. [HTML-CSS-JS Prettify](#16-html-css-js-prettify-kurulumu)
-17. [Convert​To​UTF8](#17-converttoutf8-kurulumu)
-18. [Auto​File​Name](#18-autofilename-kurulumu)
-19. [Color Highlighter](#19-color-highlighter-kurulumu)
-20. [All Autocomplete](#20-all-autocomplete-kurulumu)
-21. [A File Icon](#21-a-file-icon-kurulumu)
-22. [Material Theme](#22-material-theme-kurulumu)
-23. [Emmet](#23-emmet-kurulumu)
-24. [GitGutter](#24-gitgutter-kurulumu)
+- [Sublime Text 3 İndir](#1-sublime-text-3-İndir)
+- [Package Control](#2-package-control-kurulumu)
+- [Emmet](#3-emmet-kurulumu)
+- [Sidebar Enhancements](#4-sidebar-enhancements-kurulumu)
+- [Sublime​Linter](#5-sublimelinter-kurulumu)
+	- [SublimeLinter-csslint](#51-sublimelinter-csslint-kurulumu)
+	- [SublimeLinter-jshint](#52-sublimelinter-jshint-kurulumu)
+	- [SublimeLinter-contrib-scss-lint](#53-sublimelinter-contrib-scss-lint-kurulumu)
+	- [SublimeLinter-contrib-sass-lint](#54-sublimelinter-contrib-sass-lint-kurulumu)
+	- [SublimeLinter-contrib-htmlhint](#55-sublimelinter-contrib-htmlhint-kurulumu)
+	- [BracketHighlighter](#6-brackethighlighter-kurulumu)
+- [Sublime​Code​Intel](#7-sublimecodeintel-kurulumu)
+- [HTML5](#8-html5-kurulumu)
+- [Alignment](#9-alignment-kurulumu)
+- [Sass](#10-sass-kurulumu)
+- [Color​Picker](#11-colorpicker-kurulumu)
+- [j​Query](#12-jquery-kurulumu)
+- [Git](#13-git-kurulumu)
+- [FTPSync](#14-ftpsync-kurulumu)
+- [DocBlockr](#15-docblockr-kurulumu)
+- [HTML-CSS-JS Prettify](#16-html-css-js-prettify-kurulumu)
+- [Convert​To​UTF8](#17-converttoutf8-kurulumu)
+- [Auto​File​Name](#18-autofilename-kurulumu)
+- [Color Highlighter](#19-color-highlighter-kurulumu)
+- [All Autocomplete](#20-all-autocomplete-kurulumu)
+- [A File Icon](#21-a-file-icon-kurulumu)
+- [Material Theme](#22-material-theme-kurulumu)
+- [Emmet](#23-emmet-kurulumu)
+- [GitGutter](#24-gitgutter-kurulumu)
 
-### 1. Sublime Text 3 İndir
+### Sublime Text 3 İndir
 
 [https://www.sublimetext.com/](https://www.sublimetext.com/)
 
-### 2. Package Control Kurulumu
+### Package Control Kurulumu
 
 [https://packagecontrol.io/installation](https://packagecontrol.io/installation)
 
@@ -44,7 +44,7 @@ Sublime Text 3 Kurulumu ve Popüler Eklentilerinin Yüklenmesi
 2. Alt kısımda açılan yere [Package Control](https://packagecontrol.io/installation) sayfasında yer alan kodu yapıştırın. 
 3. Kurulum tamamlandıktan sonra CTRL+Shift+P tuşuna basarak eklentileri kurabilirsiniz. 
 
-### 3. Emmet Kurulumu
+### Emmet Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
@@ -68,7 +68,7 @@ Bu şekilde bir çıktı ile karşılaşacaksınız. Hızlı kod yazmanıza olan
 
 Daha fazla örnek için [Cheat Sheet](https://docs.emmet.io/cheat-sheet/) sayfasına bakabilirsiniz. 
 
-### 4. Sidebar Enhancements Kurulumu
+### Sidebar Enhancements Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
@@ -76,72 +76,72 @@ Daha fazla örnek için [Cheat Sheet](https://docs.emmet.io/cheat-sheet/) sayfas
 4. Kurulum bittikten sonra projenizi Sublime Text'te sürükleyin.
 5. Sol tarafta yer alan kısımdan dosya oluşturma, silme, kopyalama vb. işlemleri yapabilirsiniz. 
 
-### 5. Sublime​Linter Kurulumu
+### Sublime​Linter Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa Sublime​Linter yazın ve kurulum tamamlanmasını bekleyin.
 4. Daha sonra [Node.js](https://nodejs.org/) sayfasında programı indirin. Kurulumu tamamlayın.
 
-	#### 1. [SublimeLinter-csslint Kurulumu](https://github.com/SublimeLinter/SublimeLinter-csslint)
+#### [SublimeLinter-csslint Kurulumu](https://github.com/SublimeLinter/SublimeLinter-csslint)
 
-	1. CTRL+Shift+P tuşuna basın.
-	2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
-	3. Bir sonra açılan kutucuğa SublimeLinter-csslint yazın ve kurulum tamamlanmasını bekleyin.
-	4. Daha sonra Terminal ekranı açın. 
-	5. `npm install -g csslint` kodu yapıştırın ve kurulum tamamlanmasını bekleyin. 
+1. CTRL+Shift+P tuşuna basın.
+2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
+3. Bir sonra açılan kutucuğa SublimeLinter-csslint yazın ve kurulum tamamlanmasını bekleyin.
+4. Daha sonra Terminal ekranı açın. 
+5. `npm install -g csslint` kodu yapıştırın ve kurulum tamamlanmasını bekleyin. 
 
-	#### 2. [SublimeLinter-jshint Kurulumu](https://github.com/SublimeLinter/SublimeLinter-jshint)
+#### [SublimeLinter-jshint Kurulumu](https://github.com/SublimeLinter/SublimeLinter-jshint)
 
-	1. CTRL+Shift+P tuşuna basın.
-	2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
-	3. Bir sonra açılan kutucuğa SublimeLinter-jshint yazın ve kurulum tamamlanmasını bekleyin.
-	4. Daha sonra Terminal ekranı açın. 
-	5. `npm install jshint` kodu yapıştırın ve kurulum tamamlanmasını bekleyin. 
+1. CTRL+Shift+P tuşuna basın.
+2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
+3. Bir sonra açılan kutucuğa SublimeLinter-jshint yazın ve kurulum tamamlanmasını bekleyin.
+4. Daha sonra Terminal ekranı açın. 
+5. `npm install jshint` kodu yapıştırın ve kurulum tamamlanmasını bekleyin. 
 
-	#### 3. [SublimeLinter-contrib-scss-lint Kurulumu](https://github.com/attenzione/SublimeLinter-scss-lint)
+#### [SublimeLinter-contrib-scss-lint Kurulumu](https://github.com/attenzione/SublimeLinter-scss-lint)
 
-	1. CTRL+Shift+P tuşuna basın.
-	2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
-	3. Bir sonra açılan kutucuğa SublimeLinter-contrib-scss-lint yazın ve kurulum tamamlanmasını bekleyin.
-	4. Daha sonra Terminal ekranı açın. 
-	5. `gem install scss_lint` kodu yapıştırın ve kurulum tamamlanmasını bekleyin. 
+1. CTRL+Shift+P tuşuna basın.
+2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
+3. Bir sonra açılan kutucuğa SublimeLinter-contrib-scss-lint yazın ve kurulum tamamlanmasını bekleyin.
+4. Daha sonra Terminal ekranı açın. 
+5. `gem install scss_lint` kodu yapıştırın ve kurulum tamamlanmasını bekleyin. 
 
-	#### 4. [SublimeLinter-contrib-sass-lint Kurulumu](https://github.com/skovhus/SublimeLinter-contrib-sass-lint)
+#### [SublimeLinter-contrib-sass-lint Kurulumu](https://github.com/skovhus/SublimeLinter-contrib-sass-lint)
 
-	1. CTRL+Shift+P tuşuna basın.
-	2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
-	3. Bir sonra açılan kutucuğa SublimeLinter-contrib-sass-lint yazın ve kurulum tamamlanmasını bekleyin.
-	4. Daha sonra Terminal ekranı açın. 
-	5. `npm install -g sass-lint` kodu yapıştırın ve kurulum tamamlanmasını bekleyin. 
+1. CTRL+Shift+P tuşuna basın.
+2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
+3. Bir sonra açılan kutucuğa SublimeLinter-contrib-sass-lint yazın ve kurulum tamamlanmasını bekleyin.
+4. Daha sonra Terminal ekranı açın. 
+5. `npm install -g sass-lint` kodu yapıştırın ve kurulum tamamlanmasını bekleyin. 
 
-	#### 5. [SublimeLinter-contrib-htmlhint Kurulumu](https://github.com/mmaday/SublimeLinter-contrib-htmlhint)
+#### [SublimeLinter-contrib-htmlhint Kurulumu](https://github.com/mmaday/SublimeLinter-contrib-htmlhint)
 
-	1. CTRL+Shift+P tuşuna basın.
-	2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
-	3. Bir sonra açılan kutucuğa SublimeLinter-contrib-htmlhint yazın ve kurulum tamamlanmasını bekleyin.
-	4. Daha sonra Terminal ekranı açın. 
-	5. `npm install -g htmlhint@latest` kodu yapıştırın ve kurulum tamamlanmasını bekleyin. 
+1. CTRL+Shift+P tuşuna basın.
+2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
+3. Bir sonra açılan kutucuğa SublimeLinter-contrib-htmlhint yazın ve kurulum tamamlanmasını bekleyin.
+4. Daha sonra Terminal ekranı açın. 
+5. `npm install -g htmlhint@latest` kodu yapıştırın ve kurulum tamamlanmasını bekleyin. 
 
-### 6. BracketHighlighter Kurulumu
+### BracketHighlighter Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa BracketHighlighter yazın ve kurulum tamamlanmasını bekleyin.
 
-### 7. Sublime​Code​Intel Kurulumu
+### Sublime​Code​Intel Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa Sublime​Code​Intel yazın ve kurulum tamamlanmasını bekleyin.
 
-### 8. HTML5 Kurulumu
+### HTML5 Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa HTML5 yazın ve kurulum tamamlanmasını bekleyin.
 
-### 9. Alignment Kurulumu
+### Alignment Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
@@ -173,13 +173,13 @@ Daha fazla örnek için [Cheat Sheet](https://docs.emmet.io/cheat-sheet/) sayfas
 10. Dosyasını kaydedin ve kapatın. 
 11. Hizalamak istedğiniz kodu seçin ve Ctrl+Alt+S tuşuna basın.
 
-### 10. Sass Kurulumu
+### Sass Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa Sass yazın ve kurulum tamamlanmasını bekleyin.
 
-### 11. Color​Picker Kurulumu
+### Color​Picker Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
@@ -189,20 +189,20 @@ Daha fazla örnek için [Cheat Sheet](https://docs.emmet.io/cheat-sheet/) sayfas
 	* Mac OS X: CMD+SHIFT+C
 	* Linux: CTRL+SHIFT+C
 
-### 12. j​Query Kurulumu
+### j​Query Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa j​Query yazın ve kurulum tamamlanmasını bekleyin.
 
-### 13. Git Kurulumu
+### Git Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa Git yazın ve kurulum tamamlanmasını bekleyin.
 4. CTRL+Shift+P tuşuna basın. Daha sonra Git: yazarak Git komutlarını kullanabilirsiniz. 
 
-### 14. FTPSync Kurulumu
+### FTPSync Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
@@ -228,14 +228,14 @@ Daha fazla örnek için [Cheat Sheet](https://docs.emmet.io/cheat-sheet/) sayfas
 }
 ```
 
-### 15. DocBlockr Kurulumu
+### DocBlockr Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa ​DocBlockr yazın ve kurulum tamamlanmasını bekleyin.
 4. /** veya /* yazdıktan sonra enter tuşuna basın.
 
-### 16. HTML-CSS-JS Prettify Kurulumu
+### HTML-CSS-JS Prettify Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
@@ -245,37 +245,37 @@ Daha fazla örnek için [Cheat Sheet](https://docs.emmet.io/cheat-sheet/) sayfas
 	*  Preferences > Package Settings > HTML-CSS-JS Prettify > Plugin Options - Default
 6.  `"format_on_save": false,` olan kodu `"format_on_save": true,` hale getirin.
 
-### 17. Convert​To​UTF8 Kurulumu
+### Convert​To​UTF8 Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa ​Convert​To​UTF8 yazın ve kurulum tamamlanmasını bekleyin.
 
-### 18. Auto​File​Name Kurulumu
+### Auto​File​Name Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa ​Auto​File​Name yazın ve kurulum tamamlanmasını bekleyin.
 
-### 19. Color Highlighter Kurulumu
+### Color Highlighter Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa ​Color Highlighter yazın ve kurulum tamamlanmasını bekleyin.
 
-### 20. All Autocomplete Kurulumu
+### All Autocomplete Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa ​All Autocomplete yazın ve kurulum tamamlanmasını bekleyin.
 
-### 21. A File Icon Kurulumu
+### A File Icon Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa ​A File Icon yazın ve kurulum tamamlanmasını bekleyin.
 
-### 22. Material Theme Kurulumu
+### Material Theme Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
@@ -288,7 +288,7 @@ Daha fazla örnek için [Cheat Sheet](https://docs.emmet.io/cheat-sheet/) sayfas
 "theme": "Material-Theme.sublime-theme",
 ```
 
-### 23. Emmet Kurulumu
+### Emmet Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
@@ -316,7 +316,7 @@ Bu şekilde bir çıktı ile karşılaşacaksınız. Hızlı kod yazmanıza olan
 Daha fazla örnek için [Emmet CSS Snippets](http://peiwen.lu/Emmet-Css-Snippets-for-Sublime-Text-2/) sayfasına bakabilirsiniz. 
 
 
-### 24. GitGutter Kurulumu
+### GitGutter Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
