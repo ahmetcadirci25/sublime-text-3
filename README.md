@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/ahmetcadirci25/sublime-text-3/">
+  <a href="https://ahmetcadirci.com.tr/sublime-text-3/">
     <img width="500" src="media/logo.svg" alt="Sublime Text 3">
   </a>
 
@@ -424,4 +424,4 @@ Daha fazla örnek için **[Emmet CSS Snippets](http://peiwen.lu/Emmet-Css-Snippe
 
 <img width="60" src="media/PD-icon.svg" alt="The Unlicense">
 
-Bu eseri hiçbir izin almadan ticari amaçlar da dahi olmak üzere kopyalayabilir, düzenleyebilir, dağıtabilir ya da kullanabilirsiniz. Diğer bilgiler için [bakınız](LICENSE).
+Bu eseri hiçbir izin almadan ticari amaçlar da dahi olmak üzere kopyalayabilir, düzenleyebilir, dağıtabilir ya da kullanabilirsiniz. Diğer bilgiler için [bakınız](https://github.com/ahmetcadirci25/sublime-text-3/blob/master/LICENSE).
