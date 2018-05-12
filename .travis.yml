@@ -1,13 +1,19 @@
 language: ruby
 rvm:
-- 2.3.1
-install:
-- bundle install
-deploy:
-  provider: pages
-  skip_cleanup: true
-  github_token: $GITHUB_TOKEN
-  local_dir: _site
-  target_branch: master
-  on:
-    branch: source
+  - 2.4.0
+script: bundle exec jekyll build
+branches:
+  only:
+    - master
+sudo: false
+after_success:
+  - cd _site
+  - git init
+  - git config user.name "Ahmet Çadırcı"
+  - git config user.email "ahmetcadirci25@gmail.com"
+  - git remote add upstream "https://$GITHUB_TOKEN@github.com/ahmetcadirci/ahmetcadirci25/sublime-text-3.git"
+  - git fetch upstream
+  - git reset upstream/master
+  - git add -A .
+  - git commit -m "[Build] ${TRAVIS_COMMIT}"
+  - git push -q upstream HEAD:gh-pages
