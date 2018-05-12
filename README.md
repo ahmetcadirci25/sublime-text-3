@@ -1,16 +1,20 @@
 <p align="center">
-	<img width="500" src="media/logo.svg" alt="Sublime Text 3">
-	<br>
-	<br>
-	<p>Sublime Text 3 Kurulumu ve Popüler Eklentilerinin Yüklenmesi</p>
+  <a href="https://github.com/ahmetcadirci25/sublime-text-3/">
+    <img width="500" src="media/logo.svg" alt="Sublime Text 3">
+  </a>
 
-	<p align="center">
-	    <a href="https://github.com/ahmetcadirci25/sublime-text-3/issues/new?template=Bug_report.md">Hata Bildir</a>
-	    ·
-	    <a href="https://github.com/ahmetcadirci25/sublime-text-3/issues/new?template=Feature_request.md">Yeni İçerik</a>
-	    ·
-	    <a href="https://github.com/ahmetcadirci25/sublime-text-3/blob/master/LICENSE">Lisans</a>
-	</p>
+  <p align="center">
+    Sublime Text 3 Kurulumu ve Popüler Eklentilerinin Yüklenmesi
+    <br>
+    <a href="https://getbootstrap.com/docs/4.1/"><strong>Explore Bootstrap docs »</strong></a>
+    <br>
+    <br>
+    <a href="https://github.com/ahmetcadirci25/sublime-text-3/issues/new?template=Bug_report.md">Hata Bildir</a>
+    ·
+    <a href="https://github.com/ahmetcadirci25/sublime-text-3/issues/new?template=Feature_request.md">Yeni İçerik</a>
+    ·
+    <a href="https://github.com/ahmetcadirci25/sublime-text-3/blob/master/LICENSE">Lisans</a>
+  </p>
 </p>
 
 <br>
