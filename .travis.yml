@@ -1,9 +1,13 @@
 language: ruby
-cache: bundler
+rvm:
+- 2.3.1
 install:
 - bundle install
-script:
-- "./build.sh"
-env:
-  global:
-    secure: aGrEaTbIgLoNgEnCrYpTeDvAlUe
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local_dir: _site
+  target_branch: master
+  on:
+    branch: source
