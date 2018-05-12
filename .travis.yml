@@ -11,7 +11,7 @@ after_success:
   - git init
   - git config user.name "Ahmet Çadırcı"
   - git config user.email "ahmetcadirci25@gmail.com"
-  - git remote add upstream "https://$GITHUB_TOKEN@github.com/ahmetcadirci/ahmetcadirci25/sublime-text-3.git"
+  - git remote add upstream "https://$GITHUB_TOKEN@github.com/ahmetcadirci25/sublime-text-3.git"
   - git fetch upstream
   - git reset upstream/master
   - git add -A .
