@@ -42,6 +42,7 @@
 - [GitGutter](#gitgutter-kurulumu)
 - [Bootstrap 3 Autocomplete](#bootstrap-3-autocomplete-kurulumu)
 - [Bootstrap 4 Autocomplete](#bootstrap-4-autocomplete-kurulumu)
+- [Google Search](#google-search-kurulumu)
 
 -----
 
@@ -361,6 +362,15 @@ Daha fazla örnek için **[Emmet CSS Snippets](http://peiwen.lu/Emmet-Css-Snippe
 1. **CTRL+Shift+P** tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **Bootstrap 4 Autocomplete** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
+
+## [Google Search Kurulumu](https://packagecontrol.io/packages/Google%20Search)
+
+1. **CTRL+Shift+P** tuşuna basın.
+2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
+3. Bir sonra açılan kutucuğa **Google Search** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+4. Bir metin seçin ve **Ctrl+Shift+G** tuşlarına basın.
+5. Varsayılan tarayıcı otomatik olarak açıklacak.
 
 
 ## License
