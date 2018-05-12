@@ -4,4 +4,4 @@ about: Eklenmesini isteğiniz içeriği yazınız.
 
 ---
 
-Eklenmesini isteğiniz içeriği yazınız.
+<!-- Eklenmesini isteğiniz içeriği yazınız. -->
