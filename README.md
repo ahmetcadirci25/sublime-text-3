@@ -407,6 +407,6 @@ Daha fazla örnek için **[Emmet CSS Snippets](http://peiwen.lu/Emmet-Css-Snippe
 
 ## License
 
-[The Unlicense](LICENSE)
+<img width="500" src="media/PD-icon.svg" alt="The Unlicense">
 
 Bu eseri hiçbir izin almadan ticari amaçlar da dahi olmak üzere kopyalayabilir, düzenleyebilir, dağıtabilir ya da kullanabilirsiniz. Diğer bilgiler için [bakınız](LICENSE).
