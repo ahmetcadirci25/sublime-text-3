@@ -1,5 +1,37 @@
 Sublime Text 3 Kurulumu ve Popüler Eklentilerinin Yüklenmesi
 
+## Hızlı Erişim
+
+1. [Sublime Text 3 İndir](#1-sublime-text-3-İndir)
+2. [Package Control Kurulumu](#2-package-control-kurulumu)
+3. [Emmet Kurulumu](#3-emmet-kurulumu)
+4. [Sidebar Enhancements Kurulumu](#4-sidebar-enhancements-kurulumu)
+5. [Sublime​Linter Kurulumu](#5-sublimelinter-kurulumu)
+5.1. [SublimeLinter-csslint Kurulumu](#51-sublimelinter-csslint-kurulumu)
+5.2. [SublimeLinter-jshint Kurulumu](#52-sublimelinter-jshint-kurulumu)
+5.3. [SublimeLinter-contrib-scss-lint Kurulumu](#53-sublimelinter-contrib-scss-lint-kurulumu)
+5.4. [SublimeLinter-contrib-sass-lint Kurulumu](#54-sublimelinter-contrib-sass-lint-kurulumu)
+5.5. [SublimeLinter-contrib-htmlhint Kurulumu](#55-sublimelinter-contrib-htmlhint-kurulumu)
+6. [BracketHighlighter Kurulumu](#6-brackethighlighter-kurulumu)
+7. [Sublime​Code​Intel Kurulumu](#7-sublimecodeintel-kurulumu)
+8. [HTML5 Kurulumu](#8-html5-kurulumu)
+9. [Alignment Kurulumu](#9-alignment-kurulumu)
+10. [Sass Kurulumu](#10-sass-kurulumu)
+11. [Color​Picker Kurulumu](#11-colorpicker-kurulumu)
+12. [j​Query Kurulumu](#12-jquery-kurulumu)
+13. [Git Kurulumu](#13-git-kurulumu)
+14. [FTPSync Kurulumu](#14-ftpsync-kurulumu)
+15. [DocBlockr Kurulumu](#15-docblockr-kurulumu)
+16. [HTML-CSS-JS Prettify Kurulumu](#16-html-css-js-prettify-kurulumu)
+17. [Convert​To​UTF8 Kurulumu](#17-converttoutf8-kurulumu)
+18. [Auto​File​Name Kurulumu](#18-autofilename-kurulumu)
+19. [Color Highlighter Kurulumu](#19-color-highlighter-kurulumu)
+20. [All Autocomplete Kurulumu](#20-all-autocomplete-kurulumu)
+21. [A File Icon Kurulumu](#21-a-file-icon-kurulumu)
+22. [Material Theme Kurulumu](#22-material-theme-kurulumu)
+23. [Emmet Kurulumu](#23-emmet-kurulumu)
+24. [GitGutter Kurulumu](#24-gitgutter-kurulumu)
+
 ### 1. Sublime Text 3 İndir
 
 [https://www.sublimetext.com/](https://www.sublimetext.com/)
@@ -109,7 +141,7 @@ Daha fazla örnek için [Cheat Sheet](https://docs.emmet.io/cheat-sheet/) sayfas
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa HTML5 yazın ve kurulum tamamlanmasını bekleyin.
 
-### 8. Alignment Kurulumu
+### 9. Alignment Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
@@ -141,13 +173,13 @@ Daha fazla örnek için [Cheat Sheet](https://docs.emmet.io/cheat-sheet/) sayfas
 10. Dosyasını kaydedin ve kapatın. 
 11. Hizalamak istedğiniz kodu seçin ve Ctrl+Alt+S tuşuna basın.
 
-### 9. Sass Kurulumu
+### 10. Sass Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa Sass yazın ve kurulum tamamlanmasını bekleyin.
 
-### 10. Color​Picker Kurulumu
+### 11. Color​Picker Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
@@ -157,20 +189,20 @@ Daha fazla örnek için [Cheat Sheet](https://docs.emmet.io/cheat-sheet/) sayfas
 	* Mac OS X: CMD+SHIFT+C
 	* Linux: CTRL+SHIFT+C
 
-### 11. j​Query Kurulumu
+### 12. j​Query Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa j​Query yazın ve kurulum tamamlanmasını bekleyin.
 
-### 11. Git Kurulumu
+### 13. Git Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa Git yazın ve kurulum tamamlanmasını bekleyin.
 4. CTRL+Shift+P tuşuna basın. Daha sonra Git: yazarak Git komutlarını kullanabilirsiniz. 
 
-### 11. FTPSync Kurulumu
+### 14. FTPSync Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
@@ -196,14 +228,14 @@ Daha fazla örnek için [Cheat Sheet](https://docs.emmet.io/cheat-sheet/) sayfas
 }
 ```
 
-### 11. DocBlockr Kurulumu
+### 15. DocBlockr Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa ​DocBlockr yazın ve kurulum tamamlanmasını bekleyin.
 4. /** veya /* yazdıktan sonra enter tuşuna basın.
 
-### 12. HTML-CSS-JS Prettify Kurulumu
+### 16. HTML-CSS-JS Prettify Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
@@ -213,37 +245,37 @@ Daha fazla örnek için [Cheat Sheet](https://docs.emmet.io/cheat-sheet/) sayfas
 	*  Preferences > Package Settings > HTML-CSS-JS Prettify > Plugin Options - Default
 6.  `"format_on_save": false,` olan kodu `"format_on_save": true,` hale getirin.
 
-### 13. Convert​To​UTF8 Kurulumu
+### 17. Convert​To​UTF8 Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa ​Convert​To​UTF8 yazın ve kurulum tamamlanmasını bekleyin.
 
-### 14. Auto​File​Name Kurulumu
+### 18. Auto​File​Name Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa ​Auto​File​Name yazın ve kurulum tamamlanmasını bekleyin.
 
-### 15. Color Highlighter Kurulumu
+### 19. Color Highlighter Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa ​Color Highlighter yazın ve kurulum tamamlanmasını bekleyin.
 
-### 15. All Autocomplete Kurulumu
+### 20. All Autocomplete Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa ​All Autocomplete yazın ve kurulum tamamlanmasını bekleyin.
 
-### 16. A File Icon Kurulumu
+### 21. A File Icon Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa ​A File Icon yazın ve kurulum tamamlanmasını bekleyin.
 
-### 17. Material Theme Kurulumu
+### 22. Material Theme Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
@@ -256,7 +288,7 @@ Daha fazla örnek için [Cheat Sheet](https://docs.emmet.io/cheat-sheet/) sayfas
 "theme": "Material-Theme.sublime-theme",
 ```
 
-### 18. Emmet Kurulumu
+### 23. Emmet Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
@@ -284,7 +316,7 @@ Bu şekilde bir çıktı ile karşılaşacaksınız. Hızlı kod yazmanıza olan
 Daha fazla örnek için [Emmet CSS Snippets](http://peiwen.lu/Emmet-Css-Snippets-for-Sublime-Text-2/) sayfasına bakabilirsiniz. 
 
 
-### 19. GitGutter Kurulumu
+### 24. GitGutter Kurulumu
 
 1. CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
