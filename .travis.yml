@@ -15,5 +15,5 @@ after_success:
   - git fetch upstream
   - git reset upstream/master
   - git add -A .
-  - git commit -m "[Build] ${TRAVIS_COMMIT}"
+  - git commit -m "${TRAVIS_COMMIT} [Yeniden Yapılandırıldı]"
   - git push -q upstream HEAD:gh-pages
