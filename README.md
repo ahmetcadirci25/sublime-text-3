@@ -83,45 +83,45 @@ Daha fazla örnek için [Cheat Sheet](https://docs.emmet.io/cheat-sheet/) sayfas
 3. Bir sonra açılan kutucuğa Sublime​Linter yazın ve kurulum tamamlanmasını bekleyin.
 4. Daha sonra [Node.js](https://nodejs.org/) sayfasında programı indirin. Kurulumu tamamlayın.
 
-#### 5.1. [SublimeLinter-csslint Kurulumu](https://github.com/SublimeLinter/SublimeLinter-csslint)
+	#### 1. [SublimeLinter-csslint Kurulumu](https://github.com/SublimeLinter/SublimeLinter-csslint)
 
-1. CTRL+Shift+P tuşuna basın.
-2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
-3. Bir sonra açılan kutucuğa SublimeLinter-csslint yazın ve kurulum tamamlanmasını bekleyin.
-4. Daha sonra Terminal ekranı açın. 
-5. `npm install -g csslint` kodu yapıştırın ve kurulum tamamlanmasını bekleyin. 
+	1. CTRL+Shift+P tuşuna basın.
+	2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
+	3. Bir sonra açılan kutucuğa SublimeLinter-csslint yazın ve kurulum tamamlanmasını bekleyin.
+	4. Daha sonra Terminal ekranı açın. 
+	5. `npm install -g csslint` kodu yapıştırın ve kurulum tamamlanmasını bekleyin. 
 
-#### 5.2. [SublimeLinter-jshint Kurulumu](https://github.com/SublimeLinter/SublimeLinter-jshint)
+	#### 2. [SublimeLinter-jshint Kurulumu](https://github.com/SublimeLinter/SublimeLinter-jshint)
 
-1. CTRL+Shift+P tuşuna basın.
-2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
-3. Bir sonra açılan kutucuğa SublimeLinter-jshint yazın ve kurulum tamamlanmasını bekleyin.
-4. Daha sonra Terminal ekranı açın. 
-5. `npm install jshint` kodu yapıştırın ve kurulum tamamlanmasını bekleyin. 
+	1. CTRL+Shift+P tuşuna basın.
+	2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
+	3. Bir sonra açılan kutucuğa SublimeLinter-jshint yazın ve kurulum tamamlanmasını bekleyin.
+	4. Daha sonra Terminal ekranı açın. 
+	5. `npm install jshint` kodu yapıştırın ve kurulum tamamlanmasını bekleyin. 
 
-#### 5.3. [SublimeLinter-contrib-scss-lint Kurulumu](https://github.com/attenzione/SublimeLinter-scss-lint)
+	#### 3. [SublimeLinter-contrib-scss-lint Kurulumu](https://github.com/attenzione/SublimeLinter-scss-lint)
 
-1. CTRL+Shift+P tuşuna basın.
-2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
-3. Bir sonra açılan kutucuğa SublimeLinter-contrib-scss-lint yazın ve kurulum tamamlanmasını bekleyin.
-4. Daha sonra Terminal ekranı açın. 
-5. `gem install scss_lint` kodu yapıştırın ve kurulum tamamlanmasını bekleyin. 
+	1. CTRL+Shift+P tuşuna basın.
+	2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
+	3. Bir sonra açılan kutucuğa SublimeLinter-contrib-scss-lint yazın ve kurulum tamamlanmasını bekleyin.
+	4. Daha sonra Terminal ekranı açın. 
+	5. `gem install scss_lint` kodu yapıştırın ve kurulum tamamlanmasını bekleyin. 
 
-#### 5.4. [SublimeLinter-contrib-sass-lint Kurulumu](https://github.com/skovhus/SublimeLinter-contrib-sass-lint)
+	#### 4. [SublimeLinter-contrib-sass-lint Kurulumu](https://github.com/skovhus/SublimeLinter-contrib-sass-lint)
 
-1. CTRL+Shift+P tuşuna basın.
-2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
-3. Bir sonra açılan kutucuğa SublimeLinter-contrib-sass-lint yazın ve kurulum tamamlanmasını bekleyin.
-4. Daha sonra Terminal ekranı açın. 
-5. `npm install -g sass-lint` kodu yapıştırın ve kurulum tamamlanmasını bekleyin. 
+	1. CTRL+Shift+P tuşuna basın.
+	2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
+	3. Bir sonra açılan kutucuğa SublimeLinter-contrib-sass-lint yazın ve kurulum tamamlanmasını bekleyin.
+	4. Daha sonra Terminal ekranı açın. 
+	5. `npm install -g sass-lint` kodu yapıştırın ve kurulum tamamlanmasını bekleyin. 
 
-#### 5.5. [SublimeLinter-contrib-htmlhint Kurulumu](https://github.com/mmaday/SublimeLinter-contrib-htmlhint)
+	#### 5. [SublimeLinter-contrib-htmlhint Kurulumu](https://github.com/mmaday/SublimeLinter-contrib-htmlhint)
 
-1. CTRL+Shift+P tuşuna basın.
-2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
-3. Bir sonra açılan kutucuğa SublimeLinter-contrib-htmlhint yazın ve kurulum tamamlanmasını bekleyin.
-4. Daha sonra Terminal ekranı açın. 
-5. `npm install -g htmlhint@latest` kodu yapıştırın ve kurulum tamamlanmasını bekleyin. 
+	1. CTRL+Shift+P tuşuna basın.
+	2. Açılan kutucuğa Package Control: Install Package yazın ve Enter tuşuna basın. 
+	3. Bir sonra açılan kutucuğa SublimeLinter-contrib-htmlhint yazın ve kurulum tamamlanmasını bekleyin.
+	4. Daha sonra Terminal ekranı açın. 
+	5. `npm install -g htmlhint@latest` kodu yapıştırın ve kurulum tamamlanmasını bekleyin. 
 
 ### 6. BracketHighlighter Kurulumu
 
