@@ -54,6 +54,8 @@
 
 ## [Package Control Kurulumu](https://packagecontrol.io/installation)
 
+Sublime Text eklentileri yüklemek ve yönetmek için süper kolay ve kullanışlı kılan bir araçtır. Kolay kullanımı ile eklentileri hızlı bir şekilde yükleyebilir ve özelleştirebilirsiniz. 
+
 **Sublime Text 3** içerisine bir eklenti kurabilmemiz için öncelikler **Package Control**'un kurulu olması gerekir.
 
 [https://packagecontrol.io/installation](https://packagecontrol.io/installation)
@@ -61,6 +63,7 @@
 1. `View > Show` Console menüsüne tıklayın.
 2. Alt kısımda açılan yere **[Package Control](https://packagecontrol.io/installation)** sayfasında yer alan kodu yapıştırın. 
 3. Kurulum tamamlandıktan sonra **CTRL+Shift+P** tuşuna basarak eklentileri kurabilirsiniz. 
+
 
 ## [Emmet Kurulumu](https://packagecontrol.io/packages/Emmet)
 
