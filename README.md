@@ -49,7 +49,7 @@
 
 ## [Sublime Text 3](https://www.sublimetext.com/)
 
-[https://www.sublimetext.com/](https://www.sublimetext.com/)
+[Sublime Text](https://www.sublimetext.com/), içinde birçok programlama dili arayüzü barındıran, kaynak kod düzenleme ve metin editörüdür. Sublime [Package Control](#package-control-kurulumu) yardımıyla fonksiyonelitesi genişletilebilir. Buna rağmen genişleme paketlerinin pek çoğu özgür yazılım lisansı ile dağıtılmakta ve Sublime Text kullanıcılarının oluşturduğu topluluk tarafından geliştirilmektedir.
 
 
 ## [Package Control Kurulumu](https://packagecontrol.io/installation)
