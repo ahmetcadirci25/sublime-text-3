@@ -7,7 +7,9 @@
     Sublime Text 3 Kurulumu ve Popüler Eklentilerinin Yüklenmesi
     <br>
     <br>
-    <a href="https://github.com/ahmetcadirci25/sublime-text-3/issues/new?template=Bug_report.md">Hata Bildir</a>
+    <a href="https://ahmetcadirci.com.tr/sublime-text-3/">Sublime Text 3</a>
+    ·
+    ·<a href="https://github.com/ahmetcadirci25/sublime-text-3/issues/new?template=Bug_report.md">Hata Bildir</a>
     ·
     <a href="https://github.com/ahmetcadirci25/sublime-text-3/issues/new?template=Feature_request.md">Yeni İçerik</a>
     ·
