@@ -3,6 +3,14 @@
 	<br>
 	<br>
 	<p>Sublime Text 3 Kurulumu ve Popüler Eklentilerinin Yüklenmesi</p>
+
+	<p>
+	    <a href="https://github.com/ahmetcadirci25/sublime-text-3/issues/new?template=Bug_report.md">Hata Bildir</a>
+	    ·
+	    <a href="https://github.com/ahmetcadirci25/sublime-text-3/issues/new?template=Feature_request.md">Yeni İçerik</a>
+	    ·
+	    <a href="https://github.com/ahmetcadirci25/sublime-text-3/blob/master/LICENSE">Lisans</a>
+	</p>
 </div>
 
 <br>
