@@ -80,9 +80,9 @@ Sublime Text eklentileri yüklemek ve yönetmek için süper kolay ve kullanış
 [https://packagecontrol.io/installation](https://packagecontrol.io/installation)
 
 1. Console açmak için:
-  * **Windows:** Preferences > View > Show Console
-  * **macOS:** Sublime Text 3 > Preferences > View > Show Console
-  * **Linux:** Preferences > View > Show Console
+    * **Windows:** Preferences > View > Show Console
+    * **macOS:** Sublime Text 3 > Preferences > View > Show Console
+    * **Linux:** Preferences > View > Show Console
 2. Alt kısımda açılan yere **[Package Control](https://packagecontrol.io/installation)** sayfasında yer alan kodu yapıştırın. 
 3. Kurulum tamamlandıktan sonra **CTRL+Shift+P** tuşuna basarak eklentileri kurabilirsiniz. 
 
@@ -92,9 +92,9 @@ Sublime Text eklentileri yüklemek ve yönetmek için süper kolay ve kullanış
 Kısaca kolay kod yazmanız için imkan sağlayan bir eklentidir. Dinamik olarak kısaltmada yazdığınız şeye bağlı olarak çıktı üretebilirsiniz. Kullanımı son derece basittir. Emmet web geliştiricileri için temel araç setidir. [Döküman](https://docs.emmet.io/) sayfasını ziyaret ederek daha fazla bilgi edinebilirsiniz. 
 
 1. Kurulum için:
- * **Windows:** CTRL+Shift+P tuşuna basın.
- * **macOS:** CMD+Shift+P tuşuna basın.
- * **Linux:** CTRL+Shift+P tuşuna basın.
+   * **Windows:** CTRL+Shift+P tuşuna basın.
+   * **macOS:** CMD+Shift+P tuşuna basın.
+   * **Linux:** CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **Emmet** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 4. Kurulum bittikten sonra deneme yapabilirsiniz. 
@@ -121,9 +121,9 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 ## [Sidebar Enhancements Kurulumu](https://packagecontrol.io/packages/SideBarEnhancements)
 
 1. Kurulum için:
- * **Windows:** CTRL+Shift+P tuşuna basın.
- * **macOS:** CMD+Shift+P tuşuna basın.
- * **Linux:** CTRL+Shift+P tuşuna basın.
+   * **Windows:** CTRL+Shift+P tuşuna basın.
+   * **macOS:** CMD+Shift+P tuşuna basın.
+   * **Linux:** CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **Sidebar Enhancements** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 4. Kurulum bittikten sonra projenizi Sublime Text'te sürükleyin.
@@ -133,9 +133,9 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 ## [Sublime​Linter Kurulumu](https://packagecontrol.io/packages/SublimeLinter)
 
 1. Kurulum için:
- * **Windows:** CTRL+Shift+P tuşuna basın.
- * **macOS:** CMD+Shift+P tuşuna basın.
- * **Linux:** CTRL+Shift+P tuşuna basın.
+   * **Windows:** CTRL+Shift+P tuşuna basın.
+   * **macOS:** CMD+Shift+P tuşuna basın.
+   * **Linux:** CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **Sublime​Linter** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 4. Daha sonra **[Node.js](https://nodejs.org/)** sayfasında programı indirin. Kurulumu tamamlayın.
@@ -144,9 +144,9 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 ## [SublimeLinter-csslint Kurulumu](https://packagecontrol.io/packages/SublimeLinter-csslint)
 
 1. Kurulum için:
- * **Windows:** CTRL+Shift+P tuşuna basın.
- * **macOS:** CMD+Shift+P tuşuna basın.
- * **Linux:** CTRL+Shift+P tuşuna basın.
+   * **Windows:** CTRL+Shift+P tuşuna basın.
+   * **macOS:** CMD+Shift+P tuşuna basın.
+   * **Linux:** CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **SublimeLinter-csslint** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 4. Daha sonra **Terminal** ekranı açın. 
@@ -156,9 +156,9 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 ## [SublimeLinter-jshint Kurulumu](https://packagecontrol.io/packages/SublimeLinter-jshint)
 
 1. Kurulum için:
- * **Windows:** CTRL+Shift+P tuşuna basın.
- * **macOS:** CMD+Shift+P tuşuna basın.
- * **Linux:** CTRL+Shift+P tuşuna basın.
+   * **Windows:** CTRL+Shift+P tuşuna basın.
+   * **macOS:** CMD+Shift+P tuşuna basın.
+   * **Linux:** CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **SublimeLinter-jshint** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 4. Daha sonra **Terminal** ekranı açın. 
@@ -168,9 +168,9 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 ## [SublimeLinter-contrib-scss-lint Kurulumu](https://packagecontrol.io/packages/SublimeLinter-scss-lint)
 
 1. Kurulum için:
- * **Windows:** CTRL+Shift+P tuşuna basın.
- * **macOS:** CMD+Shift+P tuşuna basın.
- * **Linux:** CTRL+Shift+P tuşuna basın.
+   * **Windows:** CTRL+Shift+P tuşuna basın.
+   * **macOS:** CMD+Shift+P tuşuna basın.
+   * **Linux:** CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **SublimeLinter-contrib-scss-lint** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 4. Daha sonra **Terminal** ekranı açın. 
@@ -180,9 +180,9 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 ## [SublimeLinter-contrib-sass-lint Kurulumu](https://packagecontrol.io/packages/SublimeLinter-contrib-sass-lint)
 
 1. Kurulum için:
- * **Windows:** CTRL+Shift+P tuşuna basın.
- * **macOS:** CMD+Shift+P tuşuna basın.
- * **Linux:** CTRL+Shift+P tuşuna basın.
+   * **Windows:** CTRL+Shift+P tuşuna basın.
+   * **macOS:** CMD+Shift+P tuşuna basın.
+   * **Linux:** CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **SublimeLinter-contrib-sass-lint** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 4. Daha sonra **Terminal** ekranı açın. 
@@ -192,9 +192,9 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 ## [SublimeLinter-contrib-htmlhint Kurulumu](https://packagecontrol.io/packages/SublimeLinter-contrib-htmlhint)
 
 1. Kurulum için:
- * **Windows:** CTRL+Shift+P tuşuna basın.
- * **macOS:** CMD+Shift+P tuşuna basın.
- * **Linux:** CTRL+Shift+P tuşuna basın.
+   * **Windows:** CTRL+Shift+P tuşuna basın.
+   * **macOS:** CMD+Shift+P tuşuna basın.
+   * **Linux:** CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **SublimeLinter-contrib-htmlhint** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 4. Daha sonra **Terminal** ekranı açın. 
@@ -204,9 +204,9 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 ## [BracketHighlighter Kurulumu](https://packagecontrol.io/packages/BracketHighlighter)
 
 1. Kurulum için:
- * **Windows:** CTRL+Shift+P tuşuna basın.
- * **macOS:** CMD+Shift+P tuşuna basın.
- * **Linux:** CTRL+Shift+P tuşuna basın.
+   * **Windows:** CTRL+Shift+P tuşuna basın.
+   * **macOS:** CMD+Shift+P tuşuna basın.
+   * **Linux:** CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **BracketHighlighter** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 
@@ -214,9 +214,9 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 ## [Sublime​Code​Intel Kurulumu](https://packagecontrol.io/packages/SublimeCodeIntel)
 
 1. Kurulum için:
- * **Windows:** CTRL+Shift+P tuşuna basın.
- * **macOS:** CMD+Shift+P tuşuna basın.
- * **Linux:** CTRL+Shift+P tuşuna basın.
+   * **Windows:** CTRL+Shift+P tuşuna basın.
+   * **macOS:** CMD+Shift+P tuşuna basın.
+   * **Linux:** CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **Sublime​Code​Intel** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 
@@ -224,9 +224,9 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 ## [HTML5 Kurulumu](https://packagecontrol.io/packages/HTML5)
 
 1. Kurulum için:
- * **Windows:** CTRL+Shift+P tuşuna basın.
- * **macOS:** CMD+Shift+P tuşuna basın.
- * **Linux:** CTRL+Shift+P tuşuna basın.
+   * **Windows:** CTRL+Shift+P tuşuna basın.
+   * **macOS:** CMD+Shift+P tuşuna basın.
+   * **Linux:** CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **HTML5** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 
@@ -234,15 +234,15 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 ## [Alignment Kurulumu](https://packagecontrol.io/packages/Alignment)
 
 1. Kurulum için:
- * **Windows:** CTRL+Shift+P tuşuna basın.
- * **macOS:** CMD+Shift+P tuşuna basın.
- * **Linux:** CTRL+Shift+P tuşuna basın.
+   * **Windows:** CTRL+Shift+P tuşuna basın.
+   * **macOS:** CMD+Shift+P tuşuna basın.
+   * **Linux:** CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **Alignment** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 4. Ayarlar için: 
-  * **Windows:** Preferences > Package Settings > Alignment > Settings - User
-	* **macOS:** Sublime Text 3 > Preferences > Package Settings > Alignment * Settings - User
-	* **Linux:** Preferences > Package Settings > Alignment > Settings - User
+   * **Windows:** Preferences > Package Settings > Alignment > Settings - User
+   * **macOS:** Sublime Text 3 > Preferences > Package Settings > Alignment * Settings - User
+   * **Linux:** Preferences > Package Settings > Alignment > Settings - User
 5. Dosya boş olmalıdır. Aşağıdakileri kodu yapıştırın:
 
 ```
@@ -256,9 +256,9 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 6. Dosyasını kaydedin ve kapatın. 
 7. Hizalamak istedğiniz kodu seçin ve Ctrl+Alt+A tuşuna basın.
 8. Eğer **Ctrl+Alt+A** tuşu çalışmıyorsa. Aşağıdaki  ayarları yapabilirsiniz. 
-	* **Windows:** Preferences > Package Settings > Alignment > Key Bindings (default)
-	* **macOS:** Sublime Text 3 > Preferences > Package Settings > Key Bindings (default)
-	* **Linux:** Preferences > Package Settings > Alignment > Key Bindings (default)
+  * **Windows:** Preferences > Package Settings > Alignment > Key Bindings (default)
+  * **macOS:** Sublime Text 3 > Preferences > Package Settings > Key Bindings (default)
+  * **Linux:** Preferences > Package Settings > Alignment > Key Bindings (default)
 9. Dosya boş olmalıdır. Aşağıdakileri kodu yapıştırın:
 
 ```
@@ -274,9 +274,9 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 ## [Sass Kurulumu](https://packagecontrol.io/packages/Sass)
 
 1. Kurulum için:
- * **Windows:** CTRL+Shift+P tuşuna basın.
- * **macOS:** CMD+Shift+P tuşuna basın.
- * **Linux:** CTRL+Shift+P tuşuna basın.
+   * **Windows:** CTRL+Shift+P tuşuna basın.
+   * **macOS:** CMD+Shift+P tuşuna basın.
+   * **Linux:** CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **Sass** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 
@@ -284,23 +284,23 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 ## [Color​Picker Kurulumu](https://packagecontrol.io/packages/ColorPicker)
 
 1. Kurulum için:
- * **Windows:** CTRL+Shift+P tuşuna basın.
- * **macOS:** CMD+Shift+P tuşuna basın.
- * **Linux:** CTRL+Shift+P tuşuna basın.
+   * **Windows:** CTRL+Shift+P tuşuna basın.
+   * **macOS:** CMD+Shift+P tuşuna basın.
+   * **Linux:** CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **Color​Picker** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 4. Seçilen bir rengi eklemek veya değiştirmek için şunu yapın:
-	* **Windows:** CTRL+Shift+C
-	* **macOS:** CMD+Shift+C
-	* **Linux:** CTRL+Shift+C
+  * **Windows:** CTRL+Shift+C
+  * **macOS:** CMD+Shift+C
+  * **Linux:** CTRL+Shift+C
 
 
 ## [j​Query Kurulumu](https://packagecontrol.io/packages/jQuery)
 
 1. Kurulum için:
- * **Windows:** CTRL+Shift+P tuşuna basın.
- * **macOS:** CMD+Shift+P tuşuna basın.
- * **Linux:** CTRL+Shift+P tuşuna basın.
+   * **Windows:** CTRL+Shift+P tuşuna basın.
+   * **macOS:** CMD+Shift+P tuşuna basın.
+   * **Linux:** CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **j​Query** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 
@@ -308,9 +308,9 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 ## [Git Kurulumu](https://packagecontrol.io/packages/Git)
 
 1. Kurulum için:
- * **Windows:** CTRL+Shift+P tuşuna basın.
- * **macOS:** CMD+Shift+P tuşuna basın.
- * **Linux:** CTRL+Shift+P tuşuna basın.
+   * **Windows:** CTRL+Shift+P tuşuna basın.
+   * **macOS:** CMD+Shift+P tuşuna basın.
+   * **Linux:** CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **Git** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 4. **CTRL+Shift+P** tuşuna basın. Daha sonra **Git:** yazarak *Git* komutlarını kullanabilirsiniz. 
@@ -319,9 +319,9 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 ## [FTPSync Kurulumu](https://packagecontrol.io/packages/FTPSync)
 
 1. Kurulum için:
- * **Windows:** CTRL+Shift+P tuşuna basın.
- * **macOS:** CMD+Shift+P tuşuna basın.
- * **Linux:** CTRL+Shift+P tuşuna basın.
+   * **Windows:** CTRL+Shift+P tuşuna basın.
+   * **macOS:** CMD+Shift+P tuşuna basın.
+   * **Linux:** CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **FTPSync** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 4. Kurulum bittikten sonra projenizi Sublime Text'te sürükleyin.
@@ -332,25 +332,25 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 
 ```
 {
-	"default": {
+  "default": {
 
-		"host": "ftp.example.com",
-		"username": "your_login", 
-		"password": "your_password",
-		"path": "/",
+    "host": "ftp.example.com",
+    "username": "your_login", 
+    "password": "your_password",
+    "path": "/",
 
-		"upload_on_save": true,
-		"overwrite_newer_prevention": false,
-	}
+    "upload_on_save": true,
+    "overwrite_newer_prevention": false,
+  }
 }
 ```
 
 ## [DocBlockr Kurulumu](https://packagecontrol.io/packages/DocBlockr)
 
 1. Kurulum için:
- * **Windows:** CTRL+Shift+P tuşuna basın.
- * **macOS:** CMD+Shift+P tuşuna basın.
- * **Linux:** CTRL+Shift+P tuşuna basın.
+   * **Windows:** CTRL+Shift+P tuşuna basın.
+   * **macOS:** CMD+Shift+P tuşuna basın.
+   * **Linux:** CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **​DocBlockr** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 4. `/**` veya `/*` yazdıktan sonra Enter tuşuna basın.
@@ -359,16 +359,16 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 ## [HTML-CSS-JS Prettify Kurulumu](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify)
 
 1. Kurulum için:
- * **Windows:** CTRL+Shift+P tuşuna basın.
- * **macOS:** CMD+Shift+P tuşuna basın.
- * **Linux:** CTRL+Shift+P tuşuna basın.
+   * **Windows:** CTRL+Shift+P tuşuna basın.
+   * **macOS:** CMD+Shift+P tuşuna basın.
+   * **Linux:** CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa ​**HTML-CSS-JS Prettify** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 4. Hizaları bozuk olan kodlarını **CTRL+Shift+H** ile düzeltebilirsiniz. 
 5. Kaydettiğinizde otomatik düzeltmek için 
-	* **Windows:** Preferences > Package Settings > HTML-CSS-JS Prettify > Plugin Options - Default
-	* **macOS:** Sublime Text 3 > Preferences > Package Settings > HTML-CSS-JS Prettify > Plugin Options - Default
-	* **Linux:** Preferences > Package Settings > HTML-CSS-JS Prettify > Plugin Options - Default
+  * **Windows:** Preferences > Package Settings > HTML-CSS-JS Prettify > Plugin Options - Default
+  * **macOS:** Sublime Text 3 > Preferences > Package Settings > HTML-CSS-JS Prettify > Plugin Options - Default
+  * **Linux:** Preferences > Package Settings > HTML-CSS-JS Prettify > Plugin Options - Default
 
 6.  `"format_on_save": false,` olan kodu `"format_on_save": true,` hale getirin.
 
@@ -376,9 +376,9 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 ## [Convert​To​UTF8 Kurulumu](https://packagecontrol.io/packages/ConvertToUTF8)
 
 1. Kurulum için:
- * **Windows:** CTRL+Shift+P tuşuna basın.
- * **macOS:** CMD+Shift+P tuşuna basın.
- * **Linux:** CTRL+Shift+P tuşuna basın.
+   * **Windows:** CTRL+Shift+P tuşuna basın.
+   * **macOS:** CMD+Shift+P tuşuna basın.
+   * **Linux:** CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa ​**Convert​To​UTF8** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 
@@ -386,9 +386,9 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 ## [Auto​File​Name Kurulumu](https://packagecontrol.io/packages/AutoFileName)
 
 1. Kurulum için:
- * **Windows:** CTRL+Shift+P tuşuna basın.
- * **macOS:** CMD+Shift+P tuşuna basın.
- * **Linux:** CTRL+Shift+P tuşuna basın.
+   * **Windows:** CTRL+Shift+P tuşuna basın.
+   * **macOS:** CMD+Shift+P tuşuna basın.
+   * **Linux:** CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **​Auto​File​Name** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 
@@ -396,9 +396,9 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 ## [Color Highlighter Kurulumu](https://packagecontrol.io/packages/Color%20Highlighter)
 
 1. Kurulum için:
- * **Windows:** CTRL+Shift+P tuşuna basın.
- * **macOS:** CMD+Shift+P tuşuna basın.
- * **Linux:** CTRL+Shift+P tuşuna basın.
+   * **Windows:** CTRL+Shift+P tuşuna basın.
+   * **macOS:** CMD+Shift+P tuşuna basın.
+   * **Linux:** CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa ​**Color Highlighter** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 
@@ -406,9 +406,9 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 ## [All Autocomplete Kurulumu](https://packagecontrol.io/packages/All%20Autocomplete)
 
 1. Kurulum için:
- * **Windows:** CTRL+Shift+P tuşuna basın.
- * **macOS:** CMD+Shift+P tuşuna basın.
- * **Linux:** CTRL+Shift+P tuşuna basın.
+   * **Windows:** CTRL+Shift+P tuşuna basın.
+   * **macOS:** CMD+Shift+P tuşuna basın.
+   * **Linux:** CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa ​**All Autocomplete** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 
@@ -416,9 +416,9 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 ## [A File Icon Kurulumu](https://packagecontrol.io/packages/A%20File%20Icon)
 
 1. Kurulum için:
- * **Windows:** CTRL+Shift+P tuşuna basın.
- * **macOS:** CMD+Shift+P tuşuna basın.
- * **Linux:** CTRL+Shift+P tuşuna basın.
+   * **Windows:** CTRL+Shift+P tuşuna basın.
+   * **macOS:** CMD+Shift+P tuşuna basın.
+   * **Linux:** CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa ​**A File Icon** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 
@@ -426,16 +426,15 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 ## [Material Theme Kurulumu](https://packagecontrol.io/packages/Material%20Theme)
 
 1. Kurulum için:
- * **Windows:** CTRL+Shift+P tuşuna basın.
- * **macOS:** CMD+Shift+P tuşuna basın.
- * **Linux:** CTRL+Shift+P tuşuna basın.
+   * **Windows:** CTRL+Shift+P tuşuna basın.
+   * **macOS:** CMD+Shift+P tuşuna basın.
+   * **Linux:** CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa ​**Material Theme** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 4. Temayı aktif etmek için: 
-	* **Windows:** Preferences > Settings
-	* **macOS:** Sublime Text 3 > Preferences > Settings
-	* **Linux:** Preferences > Settings
-
+  * **Windows:** Preferences > Settings
+  * **macOS:** Sublime Text 3 > Preferences > Settings
+  * **Linux:** Preferences > Settings
 5.  Açılan sağ alana kodu yapıştırın. 
 ```
 "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
@@ -445,9 +444,9 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 ## [Emmet CSS Snippets Kurulumu](https://packagecontrol.io/packages/Emmet%20Css%20Snippets)
 
 1. Kurulum için:
- * **Windows:** CTRL+Shift+P tuşuna basın.
- * **macOS:** CMD+Shift+P tuşuna basın.
- * **Linux:** CTRL+Shift+P tuşuna basın.
+   * **Windows:** CTRL+Shift+P tuşuna basın.
+   * **macOS:** CMD+Shift+P tuşuna basın.
+   * **Linux:** CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **Emmet CSS Snippets** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 4. Kurulum bittikten sonra deneme yapabilirsiniz. 
@@ -455,7 +454,7 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 **Emmet CSS Snippets kullanımına bir örnek:** 
 ```
 .block{
-	pos:s+w10+h20+mt20;
+  pos:s+w10+h20+mt20;
 }
 ```
 Yukarıdaki kodu yazın, ardından **CTRL+E** tuşuna basın.
@@ -476,9 +475,9 @@ Daha fazla örnek için **[Emmet CSS Snippets](http://peiwen.lu/Emmet-Css-Snippe
 ## [GitGutter Kurulumu](https://packagecontrol.io/packages/GitGutter)
 
 1. Kurulum için:
- * **Windows:** CTRL+Shift+P tuşuna basın.
- * **macOS:** CMD+Shift+P tuşuna basın.
- * **Linux:** CTRL+Shift+P tuşuna basın.
+   * **Windows:** CTRL+Shift+P tuşuna basın.
+   * **macOS:** CMD+Shift+P tuşuna basın.
+   * **Linux:** CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **​GitGutter** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 
@@ -486,9 +485,9 @@ Daha fazla örnek için **[Emmet CSS Snippets](http://peiwen.lu/Emmet-Css-Snippe
 ## [Bootstrap 3 Autocomplete Kurulumu](https://packagecontrol.io/packages/Bootstrap%203%20Autocomplete)
 
 1. Kurulum için:
- * **Windows:** CTRL+Shift+P tuşuna basın.
- * **macOS:** CMD+Shift+P tuşuna basın.
- * **Linux:** CTRL+Shift+P tuşuna basın.
+   * **Windows:** CTRL+Shift+P tuşuna basın.
+   * **macOS:** CMD+Shift+P tuşuna basın.
+   * **Linux:** CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **Bootstrap 3 Autocomplete** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 
@@ -496,9 +495,9 @@ Daha fazla örnek için **[Emmet CSS Snippets](http://peiwen.lu/Emmet-Css-Snippe
 ## [Bootstrap 4 Autocomplete Kurulumu](https://packagecontrol.io/packages/Bootstrap%204%20Autocomplete)
 
 1. Kurulum için:
- * **Windows:** CTRL+Shift+P tuşuna basın.
- * **macOS:** CMD+Shift+P tuşuna basın.
- * **Linux:** CTRL+Shift+P tuşuna basın.
+   * **Windows:** CTRL+Shift+P tuşuna basın.
+   * **macOS:** CMD+Shift+P tuşuna basın.
+   * **Linux:** CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **Bootstrap 4 Autocomplete** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 
@@ -506,9 +505,9 @@ Daha fazla örnek için **[Emmet CSS Snippets](http://peiwen.lu/Emmet-Css-Snippe
 ## [Google Search Kurulumu](https://packagecontrol.io/packages/Google%20Search)
 
 1. Kurulum için:
- * **Windows:** CTRL+Shift+P tuşuna basın.
- * **macOS:** CMD+Shift+P tuşuna basın.
- * **Linux:** CTRL+Shift+P tuşuna basın.
+   * **Windows:** CTRL+Shift+P tuşuna basın.
+   * **macOS:** CMD+Shift+P tuşuna basın.
+   * **Linux:** CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **Google Search** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 4. Bir metin seçin ve **Ctrl+Shift+G** tuşlarına basın.
@@ -518,9 +517,9 @@ Daha fazla örnek için **[Emmet CSS Snippets](http://peiwen.lu/Emmet-Css-Snippe
 ## [CSS3 Kurulumu](https://packagecontrol.io/packages/CSS3)
 
 1. Kurulum için:
- * **Windows:** CTRL+Shift+P tuşuna basın.
- * **macOS:** CMD+Shift+P tuşuna basın.
- * **Linux:** CTRL+Shift+P tuşuna basın.
+   * **Windows:** CTRL+Shift+P tuşuna basın.
+   * **macOS:** CMD+Shift+P tuşuna basın.
+   * **Linux:** CTRL+Shift+P tuşuna basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **CSS3** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 
