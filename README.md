@@ -314,7 +314,7 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **Git** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 4. Daha sonra **[Git](https://git-scm.com/downloads)** sayfasında programı indirin. Kurulumu tamamlayın.
-4. Sublime Text 3 editörü açın ardından **CTRL+Shift+P** tuşuna basın. Daha sonra **Git:** yazarak *Git* komutlarını kullanabilirsiniz. 
+5. Sublime Text 3 editörü açın ardından **CTRL+Shift+P** tuşuna basın. Daha sonra **Git:** yazarak *Git* komutlarını kullanabilirsiniz. 
 
 
 ## [FTPSync Kurulumu](https://packagecontrol.io/packages/FTPSync)
