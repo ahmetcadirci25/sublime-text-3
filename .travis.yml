@@ -1,24 +1,17 @@
 language: ruby
 rvm:
-  - 2.4.0
-
-script: bundle exec jekyll build
-
-branches:
-  only:
-    - master
-
-sudo: false
-
-after_success:
-  - cd _site
-  - git init
-  - git config user.name "Ahmet Çadırcı"
-  - git config user.email "ahmetcadirci25@gmail.com"
-  - git remote add upstream "https://$GITHUB_TOKEN@github.com/ahmetcadirci25/sublime-text-3.git" 
-  - git fetch upstream
-  - git reset upstream/master
-  - git add -A .
-  - git commit -m "[Build] ${TRAVIS_COMMIT}"
-  - git fetch --unshallow
-  - git push -q upstream HEAD:gh-pages
+- 2.0.0
+- 1.9.3
+- jruby-19mode
+- rbx-2
+env:
+  global:
+    secure: PLfLD7L0ewfXk/dpYfqsAjyR9WqxVou7X4qvQ64+BoSCy1EKHmcIEz/qGsd3uDLgBkZx1B/6fWVLknDAYZaB2U7GP5XtHd/hSedbJYCn4BozpW4G7EFiqeNomZoRnMBVMNo3uKkuaDScQ0Fok/thC0R/4bufJTV6aPU7+VN1Iy+54GLUu/c+NmMT6rCoQKgMGfWRD3D59xsbx+Yzmy3M69RITBD/FoY9A07ei8i+wgthMLsRtoguEznaYOXsHz2P7yTWYf3eAzPEsAKqXvTEzgtzXPJizq/T2hQMK+5gB2N9isk2yK5sM7dibXCO5KNeJQp6B56KSGnJG7dOKQRcLbo8UQLzKMAI8MSuyyH9RR7ez2RqcIxFhKSLBnewgoTdbIcOpspbx/5xdd53UyniXnwTQ9/3wTqheM3H3vi6voHqVfHVPZGGBhFNE3E6h6fCcO3luvVLYJie/8s/g4vKUhAD1rhkAcmVY3uhalJn6FbjjU1FDw53qm4xTBKTHRO9vDcA3255ltQnbsklwDY784vv935OnrwZUzaUONocDiw9ODq3kMkgQM02DZfzkq23FpGRlnaln1wuNKUuhGwYOSe+1a8HUZOLwKgcdd2HaKIYHmy/mCBiYTEsTJmDlN/AR1XivONAuTXuJjemrApwLjM0sx4Msgs6tBAsOc6qXrY=
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: "$GITHUB_TOKEN"
+  local_dir: _site
+  target_branch: gh-pages
+  on:
+    branch: master
