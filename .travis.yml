@@ -1,6 +1,6 @@
 language: ruby
 rvm: 2.2
-install: bundle install
+install: bundle exec jekyll build
 deploy:
   provider: pages
   skip_cleanup: true
