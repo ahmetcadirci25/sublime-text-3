@@ -20,4 +20,5 @@ after_success:
   - git reset upstream/master
   - git add -A .
   - git commit -m "[Build] ${TRAVIS_COMMIT}"
+  - git fetch --unshallow
   - git push -q upstream HEAD:gh-pages
