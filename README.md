@@ -121,6 +121,8 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 
 ## [Sidebar Enhancements Kurulumu](https://packagecontrol.io/packages/SideBarEnhancements)
 
+Bu eklenti, kenar çubuğundaki bir dosyaya sağ tıklandığında çok daha fazla seçenek sunar. Dosya oluşturma, silme, kopyalama vb. işlemleri yapmanıza olanak sağlar.
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
@@ -132,6 +134,8 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 
 
 ## [Sublime​Linter Kurulumu](https://packagecontrol.io/packages/SublimeLinter)
+
+Sublime Text'teki sözdizimi hatalarınızı veya daha önemlisi daha temiz kodlar yazmayı istiyorsanız, hedefinize ulaşmak için SublimeLinter paketini kurmalısınız. SublimeLinter, linting için çekirdek bir pakettir, her bir dil veya çerçeve için, linting işlemini gerçekleştirmek için ek paketler yüklemeniz gerekir.
 
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
@@ -204,6 +208,8 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 
 ## [BracketHighlighter Kurulumu](https://packagecontrol.io/packages/BracketHighlighter)
 
+Bu eklenti, sadece parantezlerinizi vurgular. İmleç tırnak işaretleri arasında olduğunda başlangıcını ve sonunu işaretler. Karmaşık bir matematik dizisi veya iç içe işlevler yazarken, bu paket, imlecin hangi satırda olduğunu görmenize yardımcı olur. Ayrıca gelişmiş seçim fonksiyonlarını da kapsar.
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
@@ -213,6 +219,10 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 
 
 ## [Sublime​Code​Intel Kurulumu](https://packagecontrol.io/packages/SublimeCodeIntel)
+
+SublimeCodeIntel paketi, metin düzenleyicinizi tam özellikli IDE'ye dönüştürür. Sublime Text üzerinde genişletilmiş ve gelişmiş kod tamamlama için güzel bir eklenti. SublimeCodeIntel'in yeni sürümü ile, kod tamamlama mantığının önceki versiyona kıyasla daha yüksek seviyeye ulaştığını göreceksiniz.
+
+Bu paket, projenizdeki her bir kelime tanımını otomatik olarak tamamlamayı mümkün kılar. Bu yapılandırma dosyasında önceden tanımlanmış JavaScript, SCSS, Python, HTML, Ruby, Python3, XML, Sass, HTML5, Perl, CSS, Twig, Less, Node.js, TemplateToolkit ve PHP tamamlamayı destekler.
 
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
@@ -224,6 +234,8 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 
 ## [HTML5 Kurulumu](https://packagecontrol.io/packages/HTML5)
 
+HTML5 etiketlerini tanımlar.
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
@@ -233,6 +245,8 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 
 
 ## [Alignment Kurulumu](https://packagecontrol.io/packages/Alignment)
+
+Kodlarını hizalamanıza olanak sağlar.
 
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
@@ -284,6 +298,8 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 
 ## [Color​Picker Kurulumu](https://packagecontrol.io/packages/ColorPicker)
 
+Bu eklenti ile renk paletini aktif hale getirebilirsiniz. Kısayol tuşu **CTRL+Shift+C**'dir.
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
@@ -298,6 +314,8 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 
 ## [j​Query Kurulumu](https://packagecontrol.io/packages/jQuery)
 
+jQuery en popüler JavaScript kütüphanesidir ve bu paket jQuery fonksiyonlarının tamamlama özelliğini Sublime Text'e ekler.
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
@@ -307,6 +325,8 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 
 
 ## [Git Kurulumu](https://packagecontrol.io/packages/Git)
+
+Git repo'yla etkileşime girmenize yardımcı olur. `Init`, `push`, `pull`, `branch`, `stash` ve daha fazla komutu kullanabilirsiniz. 
 
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
@@ -349,6 +369,8 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 
 ## [DocBlockr Kurulumu](https://packagecontrol.io/packages/DocBlockr)
 
+JavaScript, PHP ve CoffeeScript dahil olmak üzere birçok dil için kolayca doküman blokları oluşturmanın gerçekten harika bir yolu. `/**` veya `/*` yazdıktan sonra Enter tuşuna basın.
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
@@ -386,6 +408,8 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 
 ## [Auto​File​Name Kurulumu](https://packagecontrol.io/packages/AutoFileName)
 
+AutoFileName, çoğunlukla kullandığım en iyi paketlerden biridir. Dosya adlarını otomatik olarak tamamlar. 
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
@@ -395,6 +419,8 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 
 
 ## [Color Highlighter Kurulumu](https://packagecontrol.io/packages/Color%20Highlighter)
+
+ColorHighlighter renk değerlerinizi vurgular. Hex, rgb, rgba, hsl, hsla gibi farklı renk değerlerini destekler.
 
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
@@ -426,6 +452,8 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 
 ## [Material Theme Kurulumu](https://packagecontrol.io/packages/Material%20Theme)
 
+Sublime temalar yükleyerek harika görünümler elde edebilirsiniz.
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
@@ -443,6 +471,8 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 ```
 
 ## [Emmet CSS Snippets Kurulumu](https://packagecontrol.io/packages/Emmet%20Css%20Snippets)
+
+Kısaca kolay kod yazmanız için imkan sağlayan bir eklentidir. Dinamik olarak kısaltmada yazdığınız şeye bağlı olarak çıktı üretebilirsiniz. Kullanımı son derece basittir.[Döküman](http://peiwen.lu/Emmet-Css-Snippets-for-Sublime-Text-2/) sayfasını ziyaret ederek daha fazla bilgi edinebilirsiniz. 
 
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
@@ -476,6 +506,22 @@ Daha fazla örnek için **[Emmet CSS Snippets](http://peiwen.lu/Emmet-Css-Snippe
 
 ## [GitGutter Kurulumu](https://packagecontrol.io/packages/GitGutter)
 
+Git işleminizden sonra hangi satırların değiştiğini size söyleyecek küçük ama kullanışlı bir eklentidir. Satır numaralarının yanındaki olukta bir gösterge görünecektir.
+
+ İkon          | Açıklama
+:-------------:|-------------------------
+![inserted][]  | eklenen satır
+![changed][]   | değiştirilmiş satır
+![deleted][]   | silinen bölgeler
+![ignored][]   | yoksayılan dosya
+![untracked][] | izlenmeyen dosya
+
+[changed]: <https://cloud.githubusercontent.com/assets/16542113/23225773/6a0204ac-f933-11e6-9213-c75a33795fec.png>
+[deleted]: <https://cloud.githubusercontent.com/assets/16542113/23225777/6a04baf8-f933-11e6-9ce4-2a17fd604f37.png>
+[ignored]: <https://cloud.githubusercontent.com/assets/16542113/23225774/6a02719e-f933-11e6-9376-059044379246.png>
+[inserted]: <https://cloud.githubusercontent.com/assets/16542113/23225775/6a02a5a6-f933-11e6-8def-a95d6a2bf448.png>
+[untracked]: <https://cloud.githubusercontent.com/assets/16542113/23225776/6a0379fe-f933-11e6-8c60-cd751c8ca094.png>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
@@ -485,6 +531,8 @@ Daha fazla örnek için **[Emmet CSS Snippets](http://peiwen.lu/Emmet-Css-Snippe
 
 
 ## [Bootstrap 3 Autocomplete Kurulumu](https://packagecontrol.io/packages/Bootstrap%203%20Autocomplete)
+
+Bootstrap 3 kodlarını otomatik tamamlamanıza olanak sağlar.
 
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
@@ -496,6 +544,8 @@ Daha fazla örnek için **[Emmet CSS Snippets](http://peiwen.lu/Emmet-Css-Snippe
 
 ## [Bootstrap 4 Autocomplete Kurulumu](https://packagecontrol.io/packages/Bootstrap%204%20Autocomplete)
 
+Bootstrap 4 kodlarını otomatik tamamlamanıza olanak sağlar.
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
@@ -506,6 +556,8 @@ Daha fazla örnek için **[Emmet CSS Snippets](http://peiwen.lu/Emmet-Css-Snippe
 
 ## [Google Search Kurulumu](https://packagecontrol.io/packages/Google%20Search)
 
+Bu eklenti ile seçilen kelimeyi otomatik olarak Google'da aratabilirsiniz.
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
@@ -513,7 +565,7 @@ Daha fazla örnek için **[Emmet CSS Snippets](http://peiwen.lu/Emmet-Css-Snippe
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **Google Search** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 4. Bir metin seçin ve **Ctrl+Shift+G** tuşlarına basın.
-5. Varsayılan tarayıcı otomatik olarak açıklacak.
+5. Varsayılan tarayıcı otomatik olarak açılacaktır.
 
 
 ## [CSS3 Kurulumu](https://packagecontrol.io/packages/CSS3)
@@ -527,7 +579,7 @@ Daha fazla örnek için **[Emmet CSS Snippets](http://peiwen.lu/Emmet-Css-Snippe
 
 ## [AdvancedNewFile Kurulumu](https://packagecontrol.io/packages/AdvancedNewFile)
 
-Sublime Text 3 için gelişmiş dosya oluşturma eklentisi.
+Sublime Text 3 için gelişmiş dosya oluşturma eklentisi. Adından da anlaşılacağı gibi, AdvancedNewFile, Sublime Text'de yeni dosya ve klasörler oluşturmayı mümkün kılar. Windows veya Mac dosyalar arasında gezinmeden, proje klasörünüzün herhangi bir düzeyinde dosya veya klasör oluşturabilirsiniz. Mutlak ve göreceli yol seçeneğine ek olarak, yeni oluşturulan dosyalar için varsayılan uzantıyı da ayarlayabilirsiniz.
 
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
