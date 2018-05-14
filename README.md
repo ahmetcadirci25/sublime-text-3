@@ -59,7 +59,7 @@
 - [Bootstrap 4 Autocomplete](#bootstrap-4-autocomplete-kurulumu)
 - [Google Search](#google-search-kurulumu)
 - [CSS3](#css3-kurulumu)
-- [Advanced​New​File](#advanced​new​file-kurulumu)
+- [AdvancedNewFile](#advancednewfile-kurulumu)
 
 -----
 
@@ -525,7 +525,7 @@ Daha fazla örnek için **[Emmet CSS Snippets](http://peiwen.lu/Emmet-Css-Snippe
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **CSS3** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 
-## [Advanced​New​File Kurulumu](https://packagecontrol.io/packages/AdvancedNewFile)
+## [AdvancedNewFile Kurulumu](https://packagecontrol.io/packages/AdvancedNewFile)
 
 Sublime Text 3 için gelişmiş dosya oluşturma eklentisi.
 
