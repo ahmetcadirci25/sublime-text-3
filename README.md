@@ -40,7 +40,7 @@
 - [Sublime​Code​Intel](#sublimecodeintel-kurulumu)
 - [HTML5](#html5-kurulumu)
 - [Alignment](#alignment-kurulumu)
-- [Sass](#sass-kurulumu)
+- [SASS](#sass-kurulumu)
 - [Color​Picker](#colorpicker-kurulumu)
 - [j​Query](#jquery-kurulumu)
 - [Git](#git-kurulumu)
@@ -60,6 +60,7 @@
 - [Google Search](#google-search-kurulumu)
 - [CSS3](#css3-kurulumu)
 - [AdvancedNewFile](#advancednewfile-kurulumu)
+- [SCSS](#scss-kurulumu)
 
 -----
 
@@ -286,14 +287,14 @@ Kodlarını hizalamanıza olanak sağlar.
 11. Hizalamak istedğiniz kodu seçin ve **Ctrl+Alt+S** tuşuna basın.
 
 
-## [Sass Kurulumu](https://packagecontrol.io/packages/Sass)
+## [SASS Kurulumu](https://packagecontrol.io/packages/Sass)
 
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
    * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
-3. Bir sonra açılan kutucuğa **Sass** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+3. Bir sonra açılan kutucuğa **SASS** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 
 
 ## [Color​Picker Kurulumu](https://packagecontrol.io/packages/ColorPicker)
@@ -592,6 +593,16 @@ Sublime Text 3 için gelişmiş dosya oluşturma eklentisi. Adından da anlaşı
    * **macOS:** CMD+Alt+N tuşlarına birlikte basın.
    * **Linux:** CTRL+Alt+N tuşlarına birlikte basın.
 5. Alt kısımda açılan alana klasör veya dosya isimleri yazarak hızlı bir şekilde yeni dosyalar oluşturabilirsiniz. 
+
+
+## [SCSS Kurulumu](https://packagecontrol.io/packages/SCSS)
+
+1. Kurulum için:
+   * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
+   * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
+   * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
+2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
+3. Bir sonra açılan kutucuğa **SCSS** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 
 
 ## Lisans
