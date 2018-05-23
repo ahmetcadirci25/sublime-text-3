@@ -61,6 +61,7 @@
 - [CSS3](#css3-kurulumu)
 - [AdvancedNewFile](#advancednewfile-kurulumu)
 - [SCSS](#scss-kurulumu)
+- [YUI Compressor](#scss-kurulumu)
 
 -----
 
@@ -603,6 +604,23 @@ Sublime Text 3 için gelişmiş dosya oluşturma eklentisi. Adından da anlaşı
    * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **SCSS** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
+
+## [YUI Compressor Kurulumu](https://packagecontrol.io/packages/YUI%20Compressor)
+
+YUI Compressor kullanarak JavaScript ve CSS dosyalarını sıkıştırır.
+
+1. Kurulum için:
+   * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
+   * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
+   * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
+2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
+3. Bir sonra açılan kutucuğa **YUI Compressor** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+4. JavaScript veya CSS dosyasını açın.
+   * **Windows:** CTRL+B tuşlarına veya F7 tuşuna basın.
+   * **macOS:** CMD+B tuşlarına veya F7 tuşuna basın.
+   * **Linux:** CTRL+B tuşlarına veya F7 tuşuna basın.
+5. Tuşa bastıktan sonra eklenti `.min.js` veya `.min.css` uzantılı yeni bir dosya oluşturacaktır.
 
 
 ## Lisans
