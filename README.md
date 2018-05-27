@@ -117,7 +117,7 @@ Sublime Text eklentileri yüklemek ve yönetmek için süper kolay ve kullanış
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [Emmet](https://packagecontrol.io/packages/Emmet)
 
@@ -159,7 +159,7 @@ Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sa
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [Sidebar Enhancements](https://packagecontrol.io/packages/SideBarEnhancements)
 
@@ -185,7 +185,7 @@ Bu eklenti, kenar çubuğundaki bir dosyaya sağ tıklandığında çok daha faz
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [Sublime​Linter](https://packagecontrol.io/packages/SublimeLinter)
 
@@ -204,7 +204,7 @@ Sublime Text'teki sözdizimi hatalarınızı veya daha önemlisi daha temiz kodl
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [SublimeLinter-csslint](https://packagecontrol.io/packages/SublimeLinter-csslint)
 
@@ -222,7 +222,7 @@ Sublime Text'teki sözdizimi hatalarınızı veya daha önemlisi daha temiz kodl
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [SublimeLinter-jshint](https://packagecontrol.io/packages/SublimeLinter-jshint)
 
@@ -240,7 +240,7 @@ Sublime Text'teki sözdizimi hatalarınızı veya daha önemlisi daha temiz kodl
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [SublimeLinter-contrib-scss-lint](https://packagecontrol.io/packages/SublimeLinter-scss-lint)
 
@@ -258,7 +258,7 @@ Sublime Text'teki sözdizimi hatalarınızı veya daha önemlisi daha temiz kodl
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [SublimeLinter-contrib-sass-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-sass-lint)
 
@@ -276,7 +276,7 @@ Sublime Text'teki sözdizimi hatalarınızı veya daha önemlisi daha temiz kodl
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [SublimeLinter-contrib-htmlhint](https://packagecontrol.io/packages/SublimeLinter-contrib-htmlhint)
 
@@ -294,7 +294,7 @@ Sublime Text'teki sözdizimi hatalarınızı veya daha önemlisi daha temiz kodl
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter)
 
@@ -312,7 +312,7 @@ Bu eklenti, sadece parantezlerinizi vurgular. İmleç tırnak işaretleri arası
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [Sublime​Code​Intel](https://packagecontrol.io/packages/SublimeCodeIntel)
 
@@ -332,7 +332,7 @@ Bu paket, projenizdeki her bir kelime tanımını otomatik olarak tamamlamayı m
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [HTML5](https://packagecontrol.io/packages/HTML5)
 
@@ -350,7 +350,7 @@ HTML5 etiketlerini tanımlar.
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [Alignment](https://packagecontrol.io/packages/Alignment)
 
@@ -404,7 +404,7 @@ Kodlarını hizalamanıza olanak sağlar.
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [SASS](https://packagecontrol.io/packages/Sass)
 
@@ -420,7 +420,7 @@ Kodlarını hizalamanıza olanak sağlar.
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [Color​Picker](https://packagecontrol.io/packages/ColorPicker)
 
@@ -448,7 +448,7 @@ Bu eklenti ile renk paletini aktif hale getirebilirsiniz. Kısayol tuşu **CTRL+
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [j​Query](https://packagecontrol.io/packages/jQuery)
 
@@ -466,7 +466,7 @@ jQuery en popüler JavaScript kütüphanesidir ve bu paket jQuery fonksiyonları
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [Git](https://packagecontrol.io/packages/Git)
 
@@ -493,7 +493,7 @@ Git repo'yla etkileşime girmenize yardımcı olur. `Init`, `push`, `pull`, `bra
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [FTPSync](https://packagecontrol.io/packages/FTPSync)
 
@@ -535,7 +535,7 @@ Git repo'yla etkileşime girmenize yardımcı olur. `Init`, `push`, `pull`, `bra
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [DocBlockr](https://packagecontrol.io/packages/DocBlockr)
 
@@ -561,7 +561,7 @@ JavaScript, PHP ve CoffeeScript dahil olmak üzere birçok dil için kolayca dok
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify)
 
@@ -589,7 +589,7 @@ JavaScript, PHP ve CoffeeScript dahil olmak üzere birçok dil için kolayca dok
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [Convert​To​UTF8](https://packagecontrol.io/packages/ConvertToUTF8)
 
@@ -605,7 +605,7 @@ JavaScript, PHP ve CoffeeScript dahil olmak üzere birçok dil için kolayca dok
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [Auto​File​Name](https://packagecontrol.io/packages/AutoFileName)
 
@@ -623,7 +623,7 @@ AutoFileName, çoğunlukla kullandığım en iyi paketlerden biridir. Dosya adla
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter)
 
@@ -641,7 +641,7 @@ ColorHighlighter renk değerlerinizi vurgular. Hex, rgb, rgba, hsl, hsla gibi fa
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [All Autocomplete](https://packagecontrol.io/packages/All%20Autocomplete)
 
@@ -657,7 +657,7 @@ ColorHighlighter renk değerlerinizi vurgular. Hex, rgb, rgba, hsl, hsla gibi fa
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [A File Icon](https://packagecontrol.io/packages/A%20File%20Icon)
 
@@ -673,7 +673,7 @@ ColorHighlighter renk değerlerinizi vurgular. Hex, rgb, rgba, hsl, hsla gibi fa
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [Material Theme](https://packagecontrol.io/packages/Material%20Theme)
 
@@ -700,7 +700,7 @@ Sublime temalar yükleyerek harika görünümler elde edebilirsiniz.
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [Emmet CSS Snippets](https://packagecontrol.io/packages/Emmet%20Css%20Snippets)
 
@@ -744,7 +744,7 @@ Daha fazla örnek için **[Emmet CSS Snippets](http://peiwen.lu/Emmet-Css-Snippe
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [GitGutter](https://packagecontrol.io/packages/GitGutter)
 
@@ -776,7 +776,7 @@ Git işleminizden sonra hangi satırların değiştiğini size söyleyecek küç
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [Bootstrap 3 Autocomplete](https://packagecontrol.io/packages/Bootstrap%203%20Autocomplete)
 
@@ -794,7 +794,7 @@ Bootstrap 3 kodlarını otomatik tamamlamanıza olanak sağlar.
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [Bootstrap 4 Autocomplete](https://packagecontrol.io/packages/Bootstrap%204%20Autocomplete)
 
@@ -812,7 +812,7 @@ Bootstrap 4 kodlarını otomatik tamamlamanıza olanak sağlar.
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [Google Search](https://packagecontrol.io/packages/Google%20Search)
 
@@ -838,7 +838,7 @@ Bu eklenti ile seçilen kelimeyi otomatik olarak Google'da aratabilirsiniz.
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [CSS3](https://packagecontrol.io/packages/CSS3)
 
@@ -854,7 +854,7 @@ Bu eklenti ile seçilen kelimeyi otomatik olarak Google'da aratabilirsiniz.
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [AdvancedNewFile](https://packagecontrol.io/packages/AdvancedNewFile)
 
@@ -883,7 +883,7 @@ Sublime Text 3 için gelişmiş dosya oluşturma eklentisi. Adından da anlaşı
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [SCSS](https://packagecontrol.io/packages/SCSS)
 
@@ -899,7 +899,7 @@ Sublime Text 3 için gelişmiş dosya oluşturma eklentisi. Adından da anlaşı
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## [YUI Compressor](https://packagecontrol.io/packages/YUI%20Compressor)
 
@@ -928,7 +928,7 @@ YUI Compressor kullanarak JavaScript ve CSS dosyalarını sıkıştırır.
 
 </details>
 
-[⬆ Yukarı Çık](#icindekiler)
+[⬆ Yukarı Çık](#İçindekiler)
 
 ## Lisans
 
