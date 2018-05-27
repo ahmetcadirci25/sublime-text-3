@@ -91,6 +91,7 @@ Sublime Text eklentileri yüklemek ve yönetmek için süper kolay ve kullanış
     * **Linux:** Preferences > View > Show Console
 2. Alt kısımda açılan yere **[Package Control](https://packagecontrol.io/installation)** sayfasında yer alan kodu yapıştırın. 
 3. Kurulumun tamamlanmasını bekleyin.
+
 </details>
 
 <details open>
@@ -113,6 +114,7 @@ Sublime Text eklentileri yüklemek ve yönetmek için süper kolay ve kullanış
    * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
 2. Açılan kutucuğa **Package Control: Remove Package** yazın ve **Enter** tuşuna basın.
 3. Daha sonra silmek istediğiniz eklentinin ismi yazın.
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -123,6 +125,7 @@ Kısaca kolay kod yazmanız için imkan sağlayan bir eklentidir. Dinamik olarak
 
 <details open>
 <summary><b>Emmet Kurulumu</b></summary>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
@@ -130,6 +133,7 @@ Kısaca kolay kod yazmanız için imkan sağlayan bir eklentidir. Dinamik olarak
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **Emmet** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 4. Kurulum bittikten sonra deneme yapabilirsiniz. 
+
 </details>
 
 <details open>
@@ -152,6 +156,7 @@ Yukarıdaki kodu yazın, ardından **CTRL+E** tuşuna basın.
 Bu şekilde bir çıktı ile karşılaşacaksınız. Hızlı kod yazmanıza olanak sağlaycaktır. 
 
 Daha fazla örnek için **[Cheat Sheet](https://docs.emmet.io/cheat-sheet/)** sayfasına bakabilirsiniz. 
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -162,18 +167,22 @@ Bu eklenti, kenar çubuğundaki bir dosyaya sağ tıklandığında çok daha faz
 
 <details open>
 <summary><b>Sidebar Enhancements Kurulumu</b></summary>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
    * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **Sidebar Enhancements** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
 </details>
 
 <details open>
 <summary><b>Sidebar Enhancements Kullanımı</b></summary>
+
 1. Kurulum bittikten sonra projenizi Sublime Text'te sürükleyin.
 2. Sol tarafta yer alan kısımdan dosya oluşturma, silme, kopyalama vb. işlemleri yapabilirsiniz. 
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -184,6 +193,7 @@ Sublime Text'teki sözdizimi hatalarınızı veya daha önemlisi daha temiz kodl
 
 <details open>
 <summary><b>Sublime​Linter Kurulumu</b></summary>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
@@ -191,6 +201,7 @@ Sublime Text'teki sözdizimi hatalarınızı veya daha önemlisi daha temiz kodl
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **Sublime​Linter** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 4. Daha sonra **[Node.js](https://nodejs.org/)** sayfasında programı indirin. Kurulumu tamamlayın.
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -199,6 +210,7 @@ Sublime Text'teki sözdizimi hatalarınızı veya daha önemlisi daha temiz kodl
 
 <details open>
 <summary><b>SublimeLinter-csslint Kurulumu</b></summary>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
@@ -207,6 +219,7 @@ Sublime Text'teki sözdizimi hatalarınızı veya daha önemlisi daha temiz kodl
 3. Bir sonra açılan kutucuğa **SublimeLinter-csslint** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 4. Daha sonra **Terminal** ekranı açın. 
 5. `npm install -g csslint` kodu yapıştırın ve kurulum tamamlanmasını bekleyin. 
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -215,6 +228,7 @@ Sublime Text'teki sözdizimi hatalarınızı veya daha önemlisi daha temiz kodl
 
 <details open>
 <summary><b>SublimeLinter-jshint Kurulumu</b></summary>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
@@ -223,6 +237,7 @@ Sublime Text'teki sözdizimi hatalarınızı veya daha önemlisi daha temiz kodl
 3. Bir sonra açılan kutucuğa **SublimeLinter-jshint** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 4. Daha sonra **Terminal** ekranı açın. 
 5. `npm install jshint` kodu yapıştırın ve kurulum tamamlanmasını bekleyin. 
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -231,6 +246,7 @@ Sublime Text'teki sözdizimi hatalarınızı veya daha önemlisi daha temiz kodl
 
 <details open>
 <summary><b>SublimeLinter-contrib-scss-lint Kurulumu</b></summary>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
@@ -239,6 +255,7 @@ Sublime Text'teki sözdizimi hatalarınızı veya daha önemlisi daha temiz kodl
 3. Bir sonra açılan kutucuğa **SublimeLinter-contrib-scss-lint** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 4. Daha sonra **Terminal** ekranı açın. 
 5. `gem install scss_lint` kodu yapıştırın ve kurulum tamamlanmasını bekleyin. 
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -247,6 +264,7 @@ Sublime Text'teki sözdizimi hatalarınızı veya daha önemlisi daha temiz kodl
 
 <details open>
 <summary><b>SublimeLinter-contrib-sass-lint Kurulumu</b></summary>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
@@ -255,6 +273,7 @@ Sublime Text'teki sözdizimi hatalarınızı veya daha önemlisi daha temiz kodl
 3. Bir sonra açılan kutucuğa **SublimeLinter-contrib-sass-lint** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 4. Daha sonra **Terminal** ekranı açın. 
 5. `npm install -g sass-lint` kodu yapıştırın ve kurulum tamamlanmasını bekleyin. 
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -263,6 +282,7 @@ Sublime Text'teki sözdizimi hatalarınızı veya daha önemlisi daha temiz kodl
 
 <details open>
 <summary><b>SublimeLinter-contrib-htmlhint Kurulumu</b></summary>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
@@ -271,6 +291,7 @@ Sublime Text'teki sözdizimi hatalarınızı veya daha önemlisi daha temiz kodl
 3. Bir sonra açılan kutucuğa **SublimeLinter-contrib-htmlhint** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 4. Daha sonra **Terminal** ekranı açın. 
 5. `npm install -g htmlhint@latest` kodu yapıştırın ve kurulum tamamlanmasını bekleyin. 
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -281,12 +302,14 @@ Bu eklenti, sadece parantezlerinizi vurgular. İmleç tırnak işaretleri arası
 
 <details open>
 <summary><b>BracketHighlighter Kurulumu</b></summary>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
    * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **BracketHighlighter** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -299,12 +322,14 @@ Bu paket, projenizdeki her bir kelime tanımını otomatik olarak tamamlamayı m
 
 <details open>
 <summary><b>Sublime​Code​Intel Kurulumu</b></summary>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
    * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **Sublime​Code​Intel** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -315,12 +340,14 @@ HTML5 etiketlerini tanımlar.
 
 <details open>
 <summary><b>HTML5 Kurulumu</b></summary>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
    * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **HTML5** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -331,6 +358,7 @@ Kodlarını hizalamanıza olanak sağlar.
 
 <details open>
 <summary><b>Alignment Kurulumu</b></summary>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
@@ -366,11 +394,14 @@ Kodlarını hizalamanıza olanak sağlar.
 ```
 
 10. Dosyasını kaydedin ve kapatın. 
+
 </details>
 
 <details open>
 <summary><b>Alignment Kullanımı</b></summary>
+
 1. Hizalamak istediğiniz kodu seçin ve **Ctrl+Alt+S** tuşuna basın.
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -379,12 +410,14 @@ Kodlarını hizalamanıza olanak sağlar.
 
 <details open>
 <summary><b>SASS Kurulumu</b></summary>
+
 1. Kurulum için:
     * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
     * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
     * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **SASS** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -395,20 +428,24 @@ Bu eklenti ile renk paletini aktif hale getirebilirsiniz. Kısayol tuşu **CTRL+
 
 <details open>
 <summary><b>Color​Picker Kurulumu</b></summary>
+
 1. Kurulum için:
     * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
     * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
     * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **Color​Picker** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
 </details>
 
 <details open>
 <summary><b>Color​Picker Kullanımı</b></summary>
+
 1. Seçilen bir rengi eklemek veya değiştirmek için şunu yapın:
     * **Windows:** CTRL+Shift+C
     * **macOS:** CMD+Shift+C
     * **Linux:** CTRL+Shift+C
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -419,12 +456,14 @@ jQuery en popüler JavaScript kütüphanesidir ve bu paket jQuery fonksiyonları
 
 <details open>
 <summary><b>j​Query Kurulumu</b></summary>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
    * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **j​Query** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -435,6 +474,7 @@ Git repo'yla etkileşime girmenize yardımcı olur. `Init`, `push`, `pull`, `bra
 
 <details open>
 <summary><b>Git Kurulumu</b></summary>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
@@ -443,11 +483,14 @@ Git repo'yla etkileşime girmenize yardımcı olur. `Init`, `push`, `pull`, `bra
 3. Bir sonra açılan kutucuğa **Git** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 4. Daha sonra **[Git](https://git-scm.com/downloads)** sayfasında programı indirin. Kurulumu tamamlayın.
 5. Sublime Text 3 editörü açın ardından **CTRL+Shift+P** tuşuna basın. Daha sonra **Git:** yazarak *Git* komutlarını kullanabilirsiniz. 
+
 </details>
 
 <details open>
 <summary><b>Git Kullanımı</b></summary>
+
 1. Sublime Text 3 editörü açın ardından **CTRL+Shift+P** tuşuna basın. Daha sonra **Git:** yazarak *Git* komutlarını kullanabilirsiniz. 
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -456,16 +499,19 @@ Git repo'yla etkileşime girmenize yardımcı olur. `Init`, `push`, `pull`, `bra
 
 <details open>
 <summary><b>FTPSync Kurulumu</b></summary>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
    * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **FTPSync** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
 </details>
 
 <details open>
 <summary><b>FTPSync Kullanımı</b></summary>
+
 1. Kurulum bittikten sonra projenizi Sublime Text'te sürükleyin.
 2. **CTRL+Shift+P** tuşuna basın.
 3. **FtpSyncs: Setup FTPSync in this folder** yazın. Açılan bölüme ftp bilgilerini yazın. 
@@ -486,6 +532,7 @@ Git repo'yla etkileşime girmenize yardımcı olur. `Init`, `push`, `pull`, `bra
   }
 }
 ```
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -496,6 +543,7 @@ JavaScript, PHP ve CoffeeScript dahil olmak üzere birçok dil için kolayca dok
 
 <details open>
 <summary><b>DocBlockr Kurulumu</b></summary>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
@@ -503,11 +551,14 @@ JavaScript, PHP ve CoffeeScript dahil olmak üzere birçok dil için kolayca dok
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **​DocBlockr** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 4. `/**` veya `/*` yazdıktan sonra Enter tuşuna basın.
+
 </details>
 
 <details open>
 <summary><b>DocBlockr Kullanımı</b></summary>
+
 1. `/**` veya `/*` yazdıktan sonra Enter tuşuna basın.
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -516,22 +567,26 @@ JavaScript, PHP ve CoffeeScript dahil olmak üzere birçok dil için kolayca dok
 
 <details open>
 <summary><b>HTML-CSS-JS Prettify Kurulumu</b></summary>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
    * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa ​**HTML-CSS-JS Prettify** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
 </details>
 
 <details open>
 <summary><b>HTML-CSS-JS Prettify Kullanımı</b></summary>
+
 1. Hizaları bozuk olan kodlarını seçin ve **CTRL+Shift+H** tuşlarına birlikte basın. 
 2. Kaydettiğinizde otomatik düzeltmek için 
     * **Windows:** Preferences > Package Settings > HTML-CSS-JS Prettify > Plugin Options - Default
     * **macOS:** Sublime Text 3 > Preferences > Package Settings > HTML-CSS-JS Prettify > Plugin Options - Default
     * **Linux:** Preferences > Package Settings > HTML-CSS-JS Prettify > Plugin Options - Default
 3.  `"format_on_save": false,` olan kodu `"format_on_save": true,` hale getirin.
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -540,12 +595,14 @@ JavaScript, PHP ve CoffeeScript dahil olmak üzere birçok dil için kolayca dok
 
 <details open>
 <summary><b>Convert​To​UTF8 Kurulumu</b></summary>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
    * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa ​**Convert​To​UTF8** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -556,12 +613,14 @@ AutoFileName, çoğunlukla kullandığım en iyi paketlerden biridir. Dosya adla
 
 <details open>
 <summary><b>Auto​File​Name Kurulumu</b></summary>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
    * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **​Auto​File​Name** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -572,12 +631,14 @@ ColorHighlighter renk değerlerinizi vurgular. Hex, rgb, rgba, hsl, hsla gibi fa
 
 <details open>
 <summary><b>Color Highlighter Kurulumu</b></summary>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
    * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa ​**Color Highlighter** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -586,12 +647,14 @@ ColorHighlighter renk değerlerinizi vurgular. Hex, rgb, rgba, hsl, hsla gibi fa
 
 <details open>
 <summary><b>All Autocomplete Kurulumu</b></summary>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
    * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa ​**All Autocomplete** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -600,12 +663,14 @@ ColorHighlighter renk değerlerinizi vurgular. Hex, rgb, rgba, hsl, hsla gibi fa
 
 <details open>
 <summary><b>A File Icon Kurulumu</b></summary>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
    * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa ​**A File Icon** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -616,6 +681,7 @@ Sublime temalar yükleyerek harika görünümler elde edebilirsiniz.
 
 <details open>
 <summary><b>Material Theme Kurulumu</b></summary>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
@@ -631,6 +697,7 @@ Sublime temalar yükleyerek harika görünümler elde edebilirsiniz.
 "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 "theme": "Material-Theme.sublime-theme",
 ```
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -641,12 +708,14 @@ Kısaca kolay kod yazmanız için imkan sağlayan bir eklentidir. Dinamik olarak
 
 <details open>
 <summary><b>Emmet CSS Snippets Kurulumu</b></summary>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
    * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **Emmet CSS Snippets** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
 </details>
 
 <details open>
@@ -672,6 +741,7 @@ Yukarıdaki kodu yazın, ardından **CTRL+E** tuşuna basın.
 Bu şekilde bir çıktı ile karşılaşacaksınız. Hızlı kod yazmanıza olanak sağlaycaktır. 
 
 Daha fazla örnek için **[Emmet CSS Snippets](http://peiwen.lu/Emmet-Css-Snippets-for-Sublime-Text-2/)** sayfasına bakabilirsiniz. 
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -696,12 +766,14 @@ Git işleminizden sonra hangi satırların değiştiğini size söyleyecek küç
 
 <details open>
 <summary><b>GitGutter Kurulumu</b></summary>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
    * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **​GitGutter** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -712,12 +784,14 @@ Bootstrap 3 kodlarını otomatik tamamlamanıza olanak sağlar.
 
 <details open>
 <summary><b>Bootstrap 3 Autocomplete Kurulumu</b></summary>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
    * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **Bootstrap 3 Autocomplete** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -728,12 +802,14 @@ Bootstrap 4 kodlarını otomatik tamamlamanıza olanak sağlar.
 
 <details open>
 <summary><b>Bootstrap 4 Autocomplete Kurulumu</b></summary>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
    * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **Bootstrap 4 Autocomplete** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -744,18 +820,22 @@ Bu eklenti ile seçilen kelimeyi otomatik olarak Google'da aratabilirsiniz.
 
 <details open>
 <summary><b>Google Search Kurulumu</b></summary>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
    * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **Google Search** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
 </details>
 
 <details open>
 <summary><b>Google Search Kullanımı</b></summary>
+
 1. Bir metin seçin ve **Ctrl+Shift+G** tuşlarına basın.
 2. Varsayılan tarayıcı otomatik olarak açılacaktır.
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -764,12 +844,14 @@ Bu eklenti ile seçilen kelimeyi otomatik olarak Google'da aratabilirsiniz.
 
 <details open>
 <summary><b>CSS3 Kurulumu</b></summary>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
    * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **CSS3** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -780,21 +862,25 @@ Sublime Text 3 için gelişmiş dosya oluşturma eklentisi. Adından da anlaşı
 
 <details open>
 <summary><b>AdvancedNewFile Kurulumu</b></summary>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
    * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **Advanced​New​File** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
 </details>
 
 <details open>
 <summary><b>AdvancedNewFile Kullanımı</b></summary>
+
 1. Dosya oluşturma için:
    * **Windows:** CTRL+Alt+N tuşlarına birlikte basın.
    * **macOS:** CMD+Alt+N tuşlarına birlikte basın.
    * **Linux:** CTRL+Alt+N tuşlarına birlikte basın.
 2. Alt kısımda açılan alana klasör veya dosya isimleri yazarak hızlı bir şekilde yeni dosyalar oluşturabilirsiniz. 
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -803,12 +889,14 @@ Sublime Text 3 için gelişmiş dosya oluşturma eklentisi. Adından da anlaşı
 
 <details open>
 <summary><b>SCSS Kurulumu</b></summary>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
    * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **SCSS** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
@@ -819,21 +907,25 @@ YUI Compressor kullanarak JavaScript ve CSS dosyalarını sıkıştırır.
 
 <details open>
 <summary><b>YUI Compressor Kurulumu</b></summary>
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
    * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
 3. Bir sonra açılan kutucuğa **YUI Compressor** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
 </details>
 
 <details open>
 <summary><b>YUI Compressor Kullanımı</b></summary>
+
 1. JavaScript veya CSS dosyasını açın.
    * **Windows:** CTRL+B tuşlarına veya F7 tuşuna basın.
    * **macOS:** CMD+B tuşlarına veya F7 tuşuna basın.
    * **Linux:** CTRL+B tuşlarına veya F7 tuşuna basın.
 2. Tuşa bastıktan sonra eklenti `.min.js` veya `.min.css` uzantılı yeni bir dosya oluşturacaktır.
+
 </details>
 
 [⬆ Yukarı Çık](#icindekiler)
