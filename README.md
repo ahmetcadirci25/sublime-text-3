@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ahmetcadirci25/sublime-text-3/">
-    <img width="500" src="media/logo.svg" alt="Sublime Text 3">
+    <img width="500" src="https://ahmetcadirci.com.tr/sublime-text-3/media/logo.svg" alt="Sublime Text 3">
   </a>
 
   <p align="center">
@@ -712,6 +712,6 @@ YUI Compressor kullanarak JavaScript ve CSS dosyalarını sıkıştırır.
 
 ## Lisans
 
-<img width="60" src="media/PD-icon.svg" alt="The Unlicense">
+<img width="60" src="https://ahmetcadirci.com.tr/sublime-text-3/media/PD-icon.svg" alt="The Unlicense">
 
 Bu eseri hiçbir izin almadan ticari amaçlar da dahi olmak üzere kopyalayabilir, düzenleyebilir, dağıtabilir ya da kullanabilirsiniz. Diğer bilgiler için [bakınız](https://github.com/ahmetcadirci25/sublime-text-3/blob/master/LICENSE).
