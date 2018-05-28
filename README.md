@@ -62,6 +62,7 @@
 - [AdvancedNewFile](#advancednewfile-kurulumu)
 - [SCSS](#scss-kurulumu)
 - [YUI Compressor](#scss-kurulumu)
+- [Autoprefixer](#autoprefixer-kurulumu)
 
 -----
 
@@ -694,6 +695,19 @@ YUI Compressor kullanarak JavaScript ve CSS dosyalarını sıkıştırır.
 5. Tuşa bastıktan sonra eklenti `.min.js` veya `.min.css` uzantılı yeni bir dosya oluşturacaktır.
 
 [⬆ Yukarı Çık](#İçindekiler)
+
+
+## [Autoprefixer Kurulumu](https://packagecontrol.io/packages/SCSS)
+
+1. Kurulum için:
+   * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
+   * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
+   * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
+2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
+3. Bir sonra açılan kutucuğa **Autoprefixer** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
+[⬆ Yukarı Çık](#İçindekiler)
+
 
 
 ## Lisans
