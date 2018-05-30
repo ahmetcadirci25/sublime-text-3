@@ -63,7 +63,7 @@
 - [SCSS](#scss-kurulumu)
 - [YUI Compressor](#scss-kurulumu)
 - [Autoprefixer](#autoprefixer-kurulumu)
-- [Plain​Tasks](#plain​Tasks-kurulumu)
+- [Plain​Tasks](#plaintasks-kurulumu)
 
 -----
 
