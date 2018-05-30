@@ -63,6 +63,7 @@
 - [SCSS](#scss-kurulumu)
 - [YUI Compressor](#scss-kurulumu)
 - [Autoprefixer](#autoprefixer-kurulumu)
+- [Plain​Tasks](#plain​Tasks-kurulumu)
 
 -----
 
@@ -708,6 +709,17 @@ YUI Compressor kullanarak JavaScript ve CSS dosyalarını sıkıştırır.
 
 [⬆ Yukarı Çık](#İçindekiler)
 
+
+## [Plain​Tasks Kurulumu](https://packagecontrol.io/packages/PlainTasks)
+
+1. Kurulum için:
+   * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
+   * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
+   * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
+2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
+3. Bir sonra açılan kutucuğa **Plain​Tasks** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
+[⬆ Yukarı Çık](#İçindekiler)
 
 
 ## Lisans
