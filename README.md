@@ -712,6 +712,8 @@ YUI Compressor kullanarak JavaScript ve CSS dosyalarını sıkıştırır.
 
 ## [Plain​Tasks Kurulumu](https://packagecontrol.io/packages/PlainTasks)
 
+Sublime Text Editörüne (versiyon 2 ve 3) ilişkin bir ek yapılacaklar listesi oluşturma eklentisi.
+
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
    * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
