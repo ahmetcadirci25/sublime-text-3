@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ahmetcadirci25/sublime-text-3/">
-    <img width="500" src="media/logo.svg" alt="Sublime Text 3">
+    <img width="500" src="https://ahmetcadirci.com.tr/sublime-text-3/media/logo.svg" alt="Sublime Text 3 Logo">
   </a>
 
   <p align="center">
@@ -62,6 +62,8 @@
 - [AdvancedNewFile](#advancednewfile-kurulumu)
 - [SCSS](#scss-kurulumu)
 - [YUI Compressor](#scss-kurulumu)
+- [Autoprefixer](#autoprefixer-kurulumu)
+- [Plain​Tasks](#plaintasks-kurulumu)
 
 -----
 
@@ -696,8 +698,34 @@ YUI Compressor kullanarak JavaScript ve CSS dosyalarını sıkıştırır.
 [⬆ Yukarı Çık](#İçindekiler)
 
 
+## [Autoprefixer Kurulumu](https://packagecontrol.io/packages/SCSS)
+
+1. Kurulum için:
+   * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
+   * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
+   * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
+2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
+3. Bir sonra açılan kutucuğa **Autoprefixer** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
+[⬆ Yukarı Çık](#İçindekiler)
+
+
+## [Plain​Tasks Kurulumu](https://packagecontrol.io/packages/PlainTasks)
+
+Sublime Text Editörüne (versiyon 2 ve 3) ilişkin bir ek yapılacaklar listesi oluşturma eklentisi.
+
+1. Kurulum için:
+   * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
+   * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
+   * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
+2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın. 
+3. Bir sonra açılan kutucuğa **Plain​Tasks** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
+[⬆ Yukarı Çık](#İçindekiler)
+
+
 ## Lisans
 
-<img width="60" src="media/PD-icon.svg" alt="The Unlicense">
+<img width="60" src="https://ahmetcadirci.com.tr/sublime-text-3/media/PD-icon.svg" alt="The Unlicense">
 
 Bu eseri hiçbir izin almadan ticari amaçlar da dahi olmak üzere kopyalayabilir, düzenleyebilir, dağıtabilir ya da kullanabilirsiniz. Diğer bilgiler için [bakınız](https://github.com/ahmetcadirci25/sublime-text-3/blob/master/LICENSE).
