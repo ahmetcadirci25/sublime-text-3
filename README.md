@@ -1,7 +1,3 @@
-# Sublime Text 3
-
-<br>
-
 <p align="center">
   <a href="https://github.com/ahmetcadirci25/sublime-text-3/">
     <img width="500" src="https://ahmetcadirci.com.tr/sublime-text-3/media/logo.svg" alt="Sublime Text 3 Logo">
