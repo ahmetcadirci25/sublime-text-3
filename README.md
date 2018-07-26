@@ -729,16 +729,3 @@ Sublime Text Editörüne (versiyon 2 ve 3) ilişkin bir ek yapılacaklar listesi
 <img width="60" src="https://ahmetcadirci.com.tr/sublime-text-3/media/PD-icon.svg" alt="The Unlicense">
 
 Bu eseri hiçbir izin almadan ticari amaçlar da dahi olmak üzere kopyalayabilir, düzenleyebilir, dağıtabilir ya da kullanabilirsiniz. Diğer bilgiler için [bakınız](https://github.com/ahmetcadirci25/sublime-text-3/blob/master/LICENSE).
-
-<!-- Hotjar Tracking Code for ahmetcadirci.com.tr -->
-<script>
-    (function(h,o,t,j,a,r){
-        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-        h._hjSettings={hjid:960170,hjsv:6};
-        a=o.getElementsByTagName('head')[0];
-        r=o.createElement('script');r.async=1;
-        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-        a.appendChild(r);
-    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
-</script>
-    
