@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+
+{% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <style>
+      .project-name{
+          text-indent: -9999px;
+          background: url(https://ahmetcadirci.com.tr/sublime-text-3/media/logo.svg);
+          background-position: center center;
+          background-repeat: no-repeat;
+          background-size: auto;
+      }
+      .page-header {
+          color: #fff;
+          text-align: center;
+          background-color: #51ab6d;
+          background-image: linear-gradient(120deg,#159957,#51ab6d);
+      }
+    </style>
+  </head>
+  <body>
+    <!--<a id="skip-to-content" href="#content">Skip to the content.</a>-->
+
+    <header class="page-header" role="banner">
+
+      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+      {% if site.github.is_project_page %}
+        <a href="{{ site.github.repository_url }}" class="btn">GitHub</a>
+      {% endif %}
+      <a href="{{ site.github.repository_url }}/blob/master/.github/CODE_OF_CONDUCT.md" class="btn">Katkıda Bulun</a>
+      <a href="{{ site.github.repository_url }}/issues/new?template=Bug_report.md" class="btn">Hata Bildir</a>
+      <a href="{{ site.github.repository_url }}/issues/new?template=Feature_request.md" class="btn">Yeni İçerik</a>
+      <a href="{{ site.github.repository_url }}/blob/master/LICENSE" class="btn">Lisans</a>
+
+      <div class="shields">
+        <a href="{{ site.github.repository_url }}/stargazers"><img src="https://img.shields.io/github/stars/ahmetcadirci25/sublime-text-3.svg" alt="GitHub stars"></a>
+        <a href="{{ site.github.repository_url }}/network"><img src="https://img.shields.io/github/forks/ahmetcadirci25/sublime-text-3.svg" alt="GitHub forks"></a>
+        <a href="{{ site.github.repository_url }}/issues"><img src="https://img.shields.io/github/issues/ahmetcadirci25/sublime-text-3.svg" alt="GitHub issues"></a>
+        <a href="{{ site.github.repository_url }}/blob/master/LICENSE"><img src="https://img.shields.io/github/license/ahmetcadirci25/sublime-text-3.svg" alt="GitHub license"></a>
+      </div>
+
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+
+      <footer class="site-footer">
+        {% if site.github.is_project_page %}
+          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.title }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+        {% endif %}
+      </footer>
+    </main>
+
+    {% if site.google_analytics %}
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+      </script>
+    {% endif %}
+  </body>
+</html>

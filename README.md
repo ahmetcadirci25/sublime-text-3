@@ -1,29 +1,3 @@
-<p align="center">
-  <a href="https://github.com/ahmetcadirci25/sublime-text-3/">
-    <img width="500" src="https://ahmetcadirci.com.tr/sublime-text-3/media/logo.svg" alt="Sublime Text 3 Logo">
-  </a>
-
-  <p align="center">
-    Sublime Text 3 Kurulumu ve Popüler Eklentilerinin Yüklenmesi
-    <br>
-    <br>
-    <a href="https://ahmetcadirci.com.tr/sublime-text-3/">Sublime Text 3</a>
-    ·
-    <a href="https://github.com/ahmetcadirci25/sublime-text-3/blob/master/.github/CODE_OF_CONDUCT.md">Katkıda Bulun</a>
-    ·
-    <a href="https://github.com/ahmetcadirci25/sublime-text-3/issues/new?template=Bug_report.md">Hata Bildir</a>
-    ·
-    <a href="https://github.com/ahmetcadirci25/sublime-text-3/issues/new?template=Feature_request.md">Yeni İçerik</a>
-    ·
-    <a href="https://github.com/ahmetcadirci25/sublime-text-3/blob/master/LICENSE">Lisans</a>
-  </p>
-</p>
-
-<br>
-
-[![GitHub stars](https://img.shields.io/github/stars/ahmetcadirci25/sublime-text-3.svg)](https://github.com/ahmetcadirci25/sublime-text-3/stargazers) [![GitHub forks](https://img.shields.io/github/forks/ahmetcadirci25/sublime-text-3.svg)](https://github.com/ahmetcadirci25/sublime-text-3/network) [![GitHub issues](https://img.shields.io/github/issues/ahmetcadirci25/sublime-text-3.svg)](https://github.com/ahmetcadirci25/sublime-text-3/issues) [![GitHub license](https://img.shields.io/github/license/ahmetcadirci25/sublime-text-3.svg)](https://github.com/ahmetcadirci25/sublime-text-3/blob/master/LICENSE)
-
-
 ## İçindekiler
 
 - [Sublime Text 3](#sublime-text-3-kurulumu)
