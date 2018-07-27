@@ -10,7 +10,11 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <style>
       .project-name{
-        text-indent: -9999px; 
+          text-indent: -9999px;
+          background: url({{ site.github.repository_url }}/media/logo.svg);
+          background-position: center center;
+          background-repeat: no-repeat;
+          background-size: auto;
       }
     </style>
   </head>
@@ -19,10 +23,7 @@
 
     <header class="page-header" role="banner">
 
-      <h1 class="project-name">
-        {{ site.title | default: site.github.repository_name }} 
-        <img width="500" src="https://ahmetcadirci.com.tr/sublime-text-3/media/logo.svg" alt="Sublime Text 3 Logo">
-      </h1>
+      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">GitHub</a>
@@ -33,10 +34,10 @@
       <a href="{{ site.github.repository_url }}/blob/master/LICENSE" class="btn">Lisans</a>
 
       <div class="shields">
-        <a href="https://github.com/ahmetcadirci25/sublime-text-3/stargazers"><img src="https://img.shields.io/github/stars/ahmetcadirci25/sublime-text-3.svg" alt="GitHub stars"></a>
-        <a href="https://github.com/ahmetcadirci25/sublime-text-3/network"><img src="https://img.shields.io/github/forks/ahmetcadirci25/sublime-text-3.svg" alt="GitHub forks"></a>
-        <a href="https://github.com/ahmetcadirci25/sublime-text-3/issues"><img src="https://img.shields.io/github/issues/ahmetcadirci25/sublime-text-3.svg" alt="GitHub issues"></a>
-        <a href="https://github.com/ahmetcadirci25/sublime-text-3/blob/master/LICENSE"><img src="https://img.shields.io/github/license/ahmetcadirci25/sublime-text-3.svg" alt="GitHub license"></a>
+        <a href="{{ site.github.repository_url }}/stargazers"><img src="https://img.shields.io/github/stars/ahmetcadirci25/sublime-text-3.svg" alt="GitHub stars"></a>
+        <a href="{{ site.github.repository_url }}/network"><img src="https://img.shields.io/github/forks/ahmetcadirci25/sublime-text-3.svg" alt="GitHub forks"></a>
+        <a href="{{ site.github.repository_url }}/issues"><img src="https://img.shields.io/github/issues/ahmetcadirci25/sublime-text-3.svg" alt="GitHub issues"></a>
+        <a href="{{ site.github.repository_url }}/blob/master/LICENSE"><img src="https://img.shields.io/github/license/ahmetcadirci25/sublime-text-3.svg" alt="GitHub license"></a>
       </div>
 
     </header>
