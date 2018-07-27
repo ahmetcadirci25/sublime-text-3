@@ -3,7 +3,19 @@
   <head>
     <meta charset="UTF-8">
 
-{% seo %}
+  <title>{{ site.title }} | {{ site.description }}</title>
+  <meta name="generator" content="Jekyll v3.7.3" />
+  <meta property="og:title" content="{{ site.title }}" />
+  <meta property="og:locale" content="{{ site.lang | default: "en-US" }" />
+  <meta name="description" content="Sublime Text 3 Kurulumu ve Popüler Eklentilerinin Yüklenmesi" />
+  <meta property="og:description" content="Sublime Text 3 Kurulumu ve Popüler Eklentilerinin Yüklenmesi" />
+  <link rel="canonical" href="{{ site.url }}/sublime-text-3/" />
+  <meta property="og:url" content="{{ site.url }}/sublime-text-3/" />
+  <meta property="og:site_name" content="Sublime Text 3" />
+  <script type="application/ld+json">
+  {"name":"Sublime Text 3","description":"Sublime Text 3 Kurulumu ve Popüler Eklentilerinin Yüklenmesi","@type":"WebSite","url":"{{ site.url }}/sublime-text-3/","headline":"İçindekiler","@context":"http://schema.org"}</script>
+
+
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -11,7 +23,7 @@
     <style>
       .project-name{
           text-indent: -9999px;
-          background: url(https://ahmetcadirci.com.tr/sublime-text-3/media/logo.svg);
+          background: url({{ site.url }}/sublime-text-3/media/logo.svg);
           background-position: center center;
           background-repeat: no-repeat;
           background-size: auto;
