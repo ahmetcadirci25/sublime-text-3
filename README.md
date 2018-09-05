@@ -700,6 +700,6 @@ Sublime Text Editörüne (versiyon 2 ve 3) ilişkin bir ek yapılacaklar listesi
 
 ## Lisans
 
-<img width="60" src="https://ahmetcadirci.com.tr/sublime-text-3/media/PD-icon.svg" alt="The Unlicense">
+<img width="60" alt="The Unlicense" src="https://ahmetcadirci.com.tr/sublime-text-3/media/PD-icon.svg">
 
 Bu eseri hiçbir izin almadan ticari amaçlar da dahi olmak üzere kopyalayabilir, düzenleyebilir, dağıtabilir ya da kullanabilirsiniz. Diğer bilgiler için [bakınız](https://github.com/ahmetcadirci25/sublime-text-3/blob/master/LICENSE).
