@@ -655,7 +655,7 @@ Sublime Text 3 için gelişmiş dosya oluşturma eklentisi. Adından da anlaşı
 
 ### [YUI Compressor Kurulumu](https://packagecontrol.io/packages/YUI%20Compressor)
 
-YUI Compressor kullanarak JavaScript ve CSS dosyalarını sıkıştırır.
+YUI Compressor kullanarak JavaScript ve CSS dosyalarını sıkıştırır. [Java](https://java.com/en/) uygulamasının yüklü olması gerekir. Kurulum tamamlandıktan sonra terminal ekranını açın ve **`java -version`** komutunu yapıştırıp **Enter** tuşuna basın. Java'nın yüklü olduğundan emin olduktan sonra aşağıdaki kurulumu tamamlayın.
 
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
@@ -672,7 +672,9 @@ YUI Compressor kullanarak JavaScript ve CSS dosyalarını sıkıştırır.
 [⬆ Yukarı Çık](#i̇çindekiler)
 
 
-### [Autoprefixer Kurulumu](https://packagecontrol.io/packages/SCSS)
+### [Autoprefixer Kurulumu](https://packagecontrol.io/packages/Autoprefixer)
+
+CSS veya SCSS'nizi önek eklemek için kullanılan eklenti. [Node.js](https://nodejs.org/en/) uygulamasının yüklü olması gerekir. Kurulum tamamlandıktan sonra terminal ekranını açın ve **`npm i autoprefixer`** komutunu yapıştırıp **Enter** tuşuna basın. Paket yüklendikten sonra aşağıdaki kurulumu tamamlayın.
 
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
