@@ -38,6 +38,7 @@
 - [YUI Compressor](#scss-kurulumu)
 - [Autoprefixer](#autoprefixer-kurulumu)
 - [Plain​Tasks](#plaintasks-kurulumu)
+- [Minify](#minify-kurulumu)
 
 -----
 
@@ -699,6 +700,21 @@ Sublime Text Editörüne (versiyon 2 ve 3) ilişkin bir ek yapılacaklar listesi
 
 [⬆ Yukarı Çık](#i̇çindekiler)
 
+
+### [Minify Kurulumu](https://packagecontrol.io/packages/Minify)
+
+Sublime Text için dosyaları sıkıştırma eklentisi, ST2 ve ST3 ile uyumlu CSS, JavaScript, JSON, HTML ve SVG dosyalarını hızlı bir şekilde küçültmenize ve / veya güzelleştirmenize olanak tanır.
+
+[Node.js](https://nodejs.org/en/) uygulamasının yüklü olması gerekir. Kurulum tamamlandıktan sonra terminal ekranını açın ve **`npm install -g clean-css-cli uglifycss js-beautify html-minifier uglify-js minjson svgo`** komutunu yapıştırıp **Enter** tuşuna basın. Paket yüklendikten sonra aşağıdaki kurulumu tamamlayın.
+
+1. Kurulum için:
+   * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
+   * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
+   * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
+2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın.
+3. Bir sonra açılan kutucuğa **Minify** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
+[⬆ Yukarı Çık](#i̇çindekiler)
 
 ## Lisans
 
