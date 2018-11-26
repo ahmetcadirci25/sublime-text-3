@@ -713,6 +713,11 @@ Sublime Text için dosyaları sıkıştırma eklentisi, ST2 ve ST3 ile uyumlu CS
    * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın.
 3. Bir sonra açılan kutucuğa **Minify** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+4. CSS, JavaScript, JSON, HTML veya SVG dosyasını açın.
+   * **Windows:** CTRL+ALT+M tuşlarına basın.
+   * **macOS:** CMD+ALT+M tuşlarına basın.
+   * **Linux:** CTRL+ALT+M tuşlarına basın.
+5. Tuşa bastıktan sonra eklenti `.min.js` veya `.min.css` uzantılı yeni bir dosya oluşturacaktır.
 
 [⬆ Yukarı Çık](#i̇çindekiler)
 
