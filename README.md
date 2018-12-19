@@ -39,6 +39,8 @@
 - [Autoprefixer](#autoprefixer-kurulumu)
 - [Plain​Tasks](#plaintasks-kurulumu)
 - [Minify](#minify-kurulumu)
+- [rem-unit](#rem-unit-kurulumu)
+- [Carbon](#carbon-kurulumu)
 
 -----
 
@@ -720,6 +722,49 @@ Sublime Text için dosyaları sıkıştırma eklentisi, ST2 ve ST3 ile uyumlu CS
 5. Tuşa bastıktan sonra eklenti `.min.js` veya `.min.css` uzantılı yeni bir dosya oluşturacaktır.
 
 [⬆ Yukarı Çık](#i̇çindekiler)
+
+### [rem-unit Kurulumu](https://packagecontrol.io/packages/rem-unit)
+
+**PX** ölçü birimini **REM** ölçü birimine otomatik değiştirme eklentisidir.
+
+1. Kurulum için:
+   * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
+   * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
+   * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
+2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın.
+3. Bir sonra açılan kutucuğa **rem-unit** yazın ve Enter tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+4. CSS dosyasını açın. **PX** kodunu yadığınızda kişi tür değiştirme seçeneği çıkacaktır. İlk seçenek yorum satırında **PX** cinsinide yazacaktır. İkinci seçenekte ise sadece **REM** halini yazacaktır.
+
+**Örnek Çıktı:**
+```
+body{
+  font-size: 1.125rem/* 18px */;
+  padding: .625rem 1.25rem;
+}
+```
+
+[⬆ Yukarı Çık](#i̇çindekiler)
+
+### [Carbon Kurulumu](https://packagecontrol.io/packages/Carbon)
+
+Bu eklenti ile kodlarınızı güzel görüntüler oluşturabilirsiniz.
+
+1. Kurulum için:
+   * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
+   * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
+   * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
+2. Açılan kutucuğa **Package Control: Install Package** yazın ve Enter tuşuna basın.
+3. Bir sonra açılan kutucuğa **Carbon** yazın ve Enter tuşuna basın.
+4. Kurulum bittikten sonra CSS, JavaScript, JSON, HTML, SVG veya herhangi bir dosyasınızı açın.
+   * **Windows:** CTRL+Shift+P tuşlarına basın.
+   * **macOS:** CMD+Shift+P tuşlarına basın.
+   * **Linux:** CTRL+Shift+P tuşlarına basın.
+5. Daha sonra arama kutucuğuna **Carbon: share selection** yazın ve tıklayın. 
+6. OtomaTik olarak tarayıcınız açılacak. Sublime Text'te yer alan kodlarınız karşınıza çıkacaktır.
+7. **Export** tuşuna bastıktan **PNG** veya **SVG** olarak dosyayı indirebilirsiniz.
+
+[⬆ Yukarı Çık](#i̇çindekiler)
+
 
 ## Lisans
 
