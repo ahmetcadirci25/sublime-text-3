@@ -766,7 +766,7 @@ Bu eklenti ile kodlarınızı güzel görüntüler oluşturabilirsiniz.
 [⬆ Yukarı Çık](#i̇çindekiler)
 
 
-[YouTube]: https://ahmetcadirci.com.tr/sublime-text-3/media/youtube.svg "YouTube"
+[YouTube]: https://ahmetcadirci25.github.io/sublime-text-3/media/youtube.svg "YouTube"
 
 ## Lisans
 
