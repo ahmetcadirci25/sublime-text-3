@@ -44,7 +44,7 @@
 
 -----
 
-### [Sublime Text 3 Kurulumu](https://www.sublimetext.com/)
+### [Sublime Text 3 Kurulumu](https://www.sublimetext.com/) ![YouTube](https://www.youtube.com/)
 
 [Sublime Text](https://www.sublimetext.com/), içinde birçok programlama dili arayüzü barındıran, kaynak kod düzenleme ve metin editörüdür. Sublime [Package Control](#package-control-kurulumu) yardımıyla fonksiyonelitesi genişletilebilir. Buna rağmen genişleme paketlerinin pek çoğu özgür yazılım lisansı ile dağıtılmakta ve Sublime Text kullanıcılarının oluşturduğu topluluk tarafından geliştirilmektedir.
 
@@ -765,6 +765,8 @@ Bu eklenti ile kodlarınızı güzel görüntüler oluşturabilirsiniz.
 
 [⬆ Yukarı Çık](#i̇çindekiler)
 
+
+[YouTube]: https://ahmetcadirci.com.tr/sublime-text-3/media/youtube.svg "YouTube"
 
 ## Lisans
 
