@@ -65,9 +65,9 @@ Sublime Text eklentileri yüklemek ve yönetmek için süper kolay ve kullanış
 [https://packagecontrol.io/installation](https://packagecontrol.io/installation)
 
 1. Console açmak için:
-    * **Windows:** View > Show Console
+    * **Windows:** Sublime Text 3 > View > Show Console
     * **macOS:** Sublime Text 3 > Preferences > View > Show Console
-    * **Linux:** Preferences > View > Show Console
+    * **Linux:** Sublime Text 3 > View > Show Console
 2. Alt kısımda açılan yere **[Package Control](https://packagecontrol.io/installation)** sayfasında yer alan kodu yapıştırın.
 3. Kurulum tamamlandıktan sonra **CTRL+Shift+P** tuşuna basarak eklentileri kurabilirsiniz.
 
