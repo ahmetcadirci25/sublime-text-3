@@ -1,6 +1,7 @@
 ## İçindekiler
 
 - [Sublime Text 3](#sublime-text-3-kurulumu)
+- [Sublime Merge](#sublime-merge-kurulumu)
 - [Package Control](#package-control-kurulumu)
 - [Emmet](#emmet-kurulumu)
 - [Sidebar Enhancements](#sidebar-enhancements-kurulumu)
@@ -52,6 +53,18 @@
   * **[Windows](https://www.sublimetext.com/3)**
   * **[macOS](https://www.sublimetext.com/3)**
   * **[Linux](https://www.sublimetext.com/3)**
+
+[⬆ Yukarı Çık](#i̇çindekiler)
+
+
+### [Sublime Merge Kurulumu](https://www.sublimemerge.com/)
+
+[Sublime Merge](https://www.sublimetext.com/), Sublime Text'in yapımcıları tarafında geliştirilen Git istemcisidir. Windows, Mac ve Linux sürümleri yer almaktadur. [Sublime Text 3.2](https://www.sublimetext.com/blog/articles/sublime-text-3-point-2) sürümü ile Sublime Merge entegre haline geldi. 
+
+İşletim sisteminize uygun olanı seçin. Kurulum dosyasını indirin ve kurulumu tamamlayın.
+  * **[Windows](https://www.sublimemerge.com/download)**
+  * **[macOS](https://www.sublimemerge.com/download)**
+  * **[Linux](https://www.sublimemerge.com/download)**
 
 [⬆ Yukarı Çık](#i̇çindekiler)
 
