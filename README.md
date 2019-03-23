@@ -42,6 +42,7 @@
 - [Minify](#minify-kurulumu)
 - [rem-unit](#rem-unit-kurulumu)
 - [Carbon](#carbon-kurulumu)
+- [GitHub Markdown Snippets](#github-markdown-snippets-kurulumu)
 
 -----
 
@@ -760,7 +761,7 @@ body{
 
 ### [Carbon Kurulumu](https://packagecontrol.io/packages/Carbon)
 
-Bu eklenti ile kodlarınızı güzel görüntüler oluşturabilirsiniz.
+Bu eklenti ile kodlarınızla güzel görüntüler oluşturabilirsiniz.
 
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
@@ -775,6 +776,21 @@ Bu eklenti ile kodlarınızı güzel görüntüler oluşturabilirsiniz.
 5. Daha sonra arama kutucuğuna **Carbon: share selection** yazın ve tıklayın. 
 6. Otomatik olarak tarayıcınız açılacak. Sublime Text'te yer alan kodlarınız karşınıza çıkacaktır.
 7. **Export** tuşuna bastıktan sonra **PNG** veya **SVG** olarak dosyayı indirebilirsiniz.
+
+[⬆ Yukarı Çık](#i̇çindekiler)
+
+### [GitHub Markdown Snippets Kurulumu](https://packagecontrol.io/packages/GitHub%20Markdown%20Snippets)
+
+HTML etiketlerini markdown etiketlerine çeviren eklenti. Kısa `a` etiketini yazdıp `TAB` tuşuna bastığınızda `[Link Title](Link Source)` etiketine çevirecektir.
+
+1. Kurulum için:
+   * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
+   * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
+   * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
+2. Açılan kutucuğa **Package Control: Install Package** yazın ve **Enter** tuşuna basın.
+3. Bir sonra açılan kutucuğa **GitHub Markdown Snippets** yazın ve **Enter** tuşuna basın.
+4. Markdown uzantılı bir dosyasını açın. Daha sonra `a` etiketini yazdıp `TAB` tuşuna bastığınızda `[Link Title](Link Source)` etiketine çevirecektir.
+5. Diğer HTML ve Markdown etiketleri görüntülemek için [buraya](https://praveenpuglia.com/github_markdown_snippets/) tıklayın.
 
 [⬆ Yukarı Çık](#i̇çindekiler)
 
