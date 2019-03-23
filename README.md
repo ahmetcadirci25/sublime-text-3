@@ -43,6 +43,8 @@
 - [rem-unit](#rem-unit-kurulumu)
 - [Carbon](#carbon-kurulumu)
 - [GitHub Markdown Snippets](#github-markdown-snippets-kurulumu)
+- [Terminal](#terminal-kurulumu)
+- [OpenFilesLister](#openfileslister-kurulumu)
 
 -----
 
@@ -791,6 +793,43 @@ HTML etiketlerini markdown etiketlerine çeviren eklenti. Kısa `a` etiketini ya
 3. Bir sonra açılan kutucuğa **GitHub Markdown Snippets** yazın ve **Enter** tuşuna basın.
 4. Markdown uzantılı bir dosyasını açın. Daha sonra `a` etiketini yazdıp `TAB` tuşuna bastığınızda `[Link Title](Link Source)` etiketine çevirecektir.
 5. Diğer HTML ve Markdown etiketleri görüntülemek için [buraya](https://praveenpuglia.com/github_markdown_snippets/) tıklayın.
+
+[⬆ Yukarı Çık](#i̇çindekiler)
+
+### [Terminal Kurulumu](https://packagecontrol.io/packages/Terminal)
+
+Terminalleri geçerli dosyadan veya kök proje klasöründen başlatın.
+
+1. Kurulum için:
+   * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
+   * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
+   * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
+2. Açılan kutucuğa **Package Control: Install Package** yazın ve **Enter** tuşuna basın.
+3. Bir sonra açılan kutucuğa **Terminal** yazın ve **Enter** tuşuna basın.
+4. Terminal ayarlarını açmak için:
+    * **Windows:** Sublime Text 3 > Preferences > Package Settings > Terminal > Settings – Default
+    * **macOS:** Sublime Text 3 > Preferences > Package Settings > Terminal > Settings – Default
+    * **Linux:** Sublime Text 3 > Preferences > Package Settings > Terminal > Settings – Default
+5. Açılan yere **[Terminal](https://github.com/wbond/sublime_terminal#cmder-on-windows)** sayfasında yer alan kodu yapıştırın.
+6. Kurulum tamamlandıktan sonra **CTRL+Shift+T** tuşuna basarak terminali çalıştırabilirsiniz.
+
+[⬆ Yukarı Çık](#i̇çindekiler)
+
+### [OpenFilesLister Kurulumu](https://packagecontrol.io/packages/OpenFilesLister)
+
+⚡ Açık dosyaları listeleyerek kolaylıkla geçiş yapabilirsiniz.
+
+1. Kurulum için:
+   * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
+   * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
+   * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
+2. Açılan kutucuğa **Package Control: Install Package** yazın ve **Enter** tuşuna basın.
+3. Bir sonra açılan kutucuğa **OpenFilesLister** yazın ve **Enter** tuşuna basın.
+4. Kurulum bittikten sonra açık olan tüm dosyalarda;
+   * **Windows:** ALT+P tuşlarına basın.
+   * **macOS:** OPTION+P tuşlarına basın.
+   * **Linux:** ALT+P tuşlarına basın.
+5. Daha sonra arama kutucuğu ile istediğiniz dosyaya erişebilirsiniz.
 
 [⬆ Yukarı Çık](#i̇çindekiler)
 
