@@ -295,9 +295,9 @@ Kodlarını hizalamanıza olanak sağlar.
 6. Dosyasını kaydedin ve kapatın.
 7. Hizalamak istedğiniz kodu seçin ve Ctrl+Alt+A tuşuna basın.
 8. Eğer **Ctrl+Alt+A** tuşu çalışmıyorsa. Aşağıdaki  ayarları yapabilirsiniz.
-  * **Windows:** Preferences > Package Settings > Alignment > Key Bindings (default)
-  * **macOS:** Sublime Text 3 > Preferences > Package Settings > Key Bindings (default)
-  * **Linux:** Preferences > Package Settings > Alignment > Key Bindings (default)
+  * **Windows:** Preferences > Package Settings > Alignment > Key Bindings (User)
+  * **macOS:** Sublime Text 3 > Preferences > Package Settings > Key Bindings (User)
+  * **Linux:** Preferences > Package Settings > Alignment > Key Bindings (User)
 9. Dosya boş olmalıdır. Aşağıdakileri kodu yapıştırın:
 
 ```
@@ -638,6 +638,7 @@ Bu eklenti ile seçilen kelimeyi otomatik olarak Google'da aratabilirsiniz.
    * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve **Enter** tuşuna basın.
 3. Bir sonra açılan kutucuğa **CSS3** yazın ve **Enter** tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
 [⬆ Yukarı Çık](#i̇çindekiler)
 
 
@@ -672,9 +673,9 @@ Sublime Text 3 için gelişmiş dosya oluşturma eklentisi. Adından da anlaşı
 [⬆ Yukarı Çık](#i̇çindekiler)
 
 
-### [YUI Compressor Kurulumu](https://packagecontrol.io/packages/YUI%20Compressor)
+### [YUI Compressor Kurulumu](https://packagecontrol.io/packages/YUI%20Compressor) - AKTİF DEĞİL
 
-YUI Compressor kullanarak JavaScript ve CSS dosyalarını sıkıştırır. [Java](https://java.com/en/) uygulamasının yüklü olması gerekir. Kurulum tamamlandıktan sonra terminal ekranını açın ve **`java -version`** komutunu yapıştırıp ****Enter**** tuşuna basın. Java'nın yüklü olduğundan emin olduktan sonra aşağıdaki kurulumu tamamlayın.
+YUI Compressor kullanarak JavaScript ve CSS dosyalarını sıkıştırır. [Java](https://java.com/en/) uygulamasının yüklü olması gerekir. Kurulum tamamlandıktan sonra terminal ekranını açın ve **`java -version`** komutunu yapıştırıp **Enter** tuşuna basın. Java'nın yüklü olduğundan emin olduktan sonra aşağıdaki kurulumu tamamlayın.
 
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
@@ -693,7 +694,7 @@ YUI Compressor kullanarak JavaScript ve CSS dosyalarını sıkıştırır. [Java
 
 ### [Autoprefixer Kurulumu](https://packagecontrol.io/packages/Autoprefixer)
 
-CSS veya SCSS'nizi önek eklemek için kullanılan eklenti. [Node.js](https://nodejs.org/en/) uygulamasının yüklü olması gerekir. Kurulum tamamlandıktan sonra terminal ekranını açın ve **`npm i autoprefixer`** komutunu yapıştırıp ****Enter**** tuşuna basın. Paket yüklendikten sonra aşağıdaki kurulumu tamamlayın.
+CSS veya SCSS'nizi önek eklemek için kullanılan eklenti. [Node.js](https://nodejs.org/en/) uygulamasının yüklü olması gerekir. Kurulum tamamlandıktan sonra terminal ekranını açın ve **`npm i autoprefixer`** komutunu yapıştırıp **Enter** tuşuna basın. Paket yüklendikten sonra aşağıdaki kurulumu tamamlayın.
 
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
@@ -723,7 +724,7 @@ Sublime Text Editörüne (versiyon 2 ve 3) ilişkin bir ek yapılacaklar listesi
 
 Sublime Text için dosyaları sıkıştırma eklentisi, ST2 ve ST3 ile uyumlu CSS, JavaScript, JSON, HTML ve SVG dosyalarını hızlı bir şekilde küçültmenize ve / veya güzelleştirmenize olanak tanır.
 
-[Node.js](https://nodejs.org/en/) uygulamasının yüklü olması gerekir. Kurulum tamamlandıktan sonra terminal ekranını açın ve **`npm install -g clean-css-cli uglifycss js-beautify html-minifier uglify-js minjson svgo`** komutunu yapıştırıp ****Enter**** tuşuna basın. Paket yüklendikten sonra aşağıdaki kurulumu tamamlayın.
+[Node.js](https://nodejs.org/en/) uygulamasının yüklü olması gerekir. Kurulum tamamlandıktan sonra terminal ekranını açın ve **`npm install -g clean-css-cli uglifycss js-beautify html-minifier uglify-js minjson svgo`** komutunu yapıştırıp **Enter** tuşuna basın. Paket yüklendikten sonra aşağıdaki kurulumu tamamlayın.
 
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
