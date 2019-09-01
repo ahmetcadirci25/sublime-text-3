@@ -19,6 +19,7 @@
 - [Color​Picker](#colorpicker-kurulumu)
 - [j​Query](#jquery-kurulumu)
 - [Git](#git-kurulumu)
+- [SFTP](#sftp-kurulumu)
 - [FTPSync](#ftpsync-kurulumu)
 - [DocBlockr](#docblockr-kurulumu)
 - [HTML-CSS-JS Prettify](#html-css-js-prettify-kurulumu)
@@ -32,6 +33,7 @@
 - [GitGutter](#gitgutter-kurulumu)
 - [Bootstrap 3 Autocomplete](#bootstrap-3-autocomplete-kurulumu)
 - [Bootstrap 4 Autocomplete](#bootstrap-4-autocomplete-kurulumu)
+- [Bootstrap 4x Autocomplete](#bootstrap-4x-autocomplete-kurulumu)
 - [Google Search](#google-search-kurulumu)
 - [CSS3](#css3-kurulumu)
 - [AdvancedNewFile](#advancednewfile-kurulumu)
@@ -45,6 +47,9 @@
 - [GitHub Markdown Snippets](#github-markdown-snippets-kurulumu)
 - [Terminal](#terminal-kurulumu)
 - [OpenFilesLister](#openfileslister-kurulumu)
+- [Browser Sync](#browser-sync-kurulumu)
+- [Comment-Snippets](#comment-snippets-kurulumu)
+- [Package​Sync](#package​pync-kurulumu)
 
 -----
 
@@ -372,6 +377,60 @@ Git repo'yla etkileşime girmenize yardımcı olur. `Init`, `push`, `pull`, `bra
 [⬆ Yukarı Çık](#i̇çindekiler)
 
 
+### [SFTP Kurulumu](https://packagecontrol.io/packages/SFTP)
+
+1. Kurulum için:
+   * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
+   * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
+   * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
+2. Açılan kutucuğa **Package Control: Install Package** yazın ve **Enter** tuşuna basın.
+3. Bir sonra açılan kutucuğa **SFTP** yazın ve **Enter** tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+4. Kurulum bittikten sonra projenizi Sublime Text'te sürükleyin.
+5. **CTRL+Shift+P** tuşuna basın.
+6. **SFTP: Browser Server..** yazın daha sonra **Add New Server** menüsüne tıklayın. Açılan bölüme ftp bilgilerini yazın.
+
+Örnek sftp-config.json dosyası:
+
+```
+{
+    // The tab key will cycle through the settings when first created
+    // Visit http://wbond.net/sublime_packages/sftp/settings for help
+    
+    // sftp, ftp or ftps
+    "type": "sftp",
+
+    "sync_down_on_open": true,
+    "sync_same_age": true,
+    
+    "host": "example.com",
+    "user": "username",
+    //"password": "password",
+    //"port": "22",
+    
+    "remote_path": "/example/path/",
+    //"file_permissions": "664",
+    //"dir_permissions": "775",
+    
+    //"extra_list_connections": 0,
+
+    "connect_timeout": 30,
+    //"keepalive": 120,
+    //"ftp_passive_mode": true,
+    //"ftp_obey_passive_host": false,
+    //"ssh_key_file": "~/.ssh/id_rsa",
+    //"sftp_flags": ["-F", "/path/to/ssh_config"],
+    
+    //"preserve_modification_times": false,
+    //"remote_time_offset_in_hours": 0,
+    //"remote_encoding": "utf-8",
+    //"remote_locale": "C",
+    //"allow_config_upload": false,
+}
+```
+
+[⬆ Yukarı Çık](#i̇çindekiler)
+
+
 ### [FTPSync Kurulumu](https://packagecontrol.io/packages/FTPSync)
 
 1. Kurulum için:
@@ -400,6 +459,7 @@ Git repo'yla etkileşime girmenize yardımcı olur. `Init`, `push`, `pull`, `bra
   }
 }
 ```
+
 [⬆ Yukarı Çık](#i̇çindekiler)
 
 
@@ -614,6 +674,20 @@ Bootstrap 4 kodlarını otomatik tamamlamanıza olanak sağlar.
 [⬆ Yukarı Çık](#i̇çindekiler)
 
 
+### [Bootstrap 4x Autocomplete Kurulumu](https://packagecontrol.io/packages/Bootstrap%204x%20Autocomplete)
+
+Bootstrap 4x kodlarını otomatik tamamlamanıza olanak sağlar.
+
+1. Kurulum için:
+   * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
+   * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
+   * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
+2. Açılan kutucuğa **Package Control: Install Package** yazın ve **Enter** tuşuna basın.
+3. Bir sonra açılan kutucuğa **Bootstrap 4x Autocomplete** yazın ve **Enter** tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
+
+[⬆ Yukarı Çık](#i̇çindekiler)
+
+
 ### [Google Search Kurulumu](https://packagecontrol.io/packages/Google%20Search)
 
 Bu eklenti ile seçilen kelimeyi otomatik olarak Google'da aratabilirsiniz.
@@ -740,6 +814,7 @@ Sublime Text için dosyaları sıkıştırma eklentisi, ST2 ve ST3 ile uyumlu CS
 
 [⬆ Yukarı Çık](#i̇çindekiler)
 
+
 ### [rem-unit Kurulumu](https://packagecontrol.io/packages/rem-unit)
 
 **PX** ölçü birimini **REM** ölçü birimine otomatik değiştirme eklentisidir.
@@ -762,6 +837,7 @@ body{
 
 [⬆ Yukarı Çık](#i̇çindekiler)
 
+
 ### [Carbon Kurulumu](https://packagecontrol.io/packages/Carbon)
 
 Bu eklenti ile kodlarınızla güzel görüntüler oluşturabilirsiniz.
@@ -782,6 +858,7 @@ Bu eklenti ile kodlarınızla güzel görüntüler oluşturabilirsiniz.
 
 [⬆ Yukarı Çık](#i̇çindekiler)
 
+
 ### [GitHub Markdown Snippets Kurulumu](https://packagecontrol.io/packages/GitHub%20Markdown%20Snippets)
 
 HTML etiketlerini markdown etiketlerine çeviren eklenti. Kısa `a` etiketini yazdıp `TAB` tuşuna bastığınızda `[Link Title](Link Source)` etiketine çevirecektir.
@@ -796,6 +873,7 @@ HTML etiketlerini markdown etiketlerine çeviren eklenti. Kısa `a` etiketini ya
 5. Diğer HTML ve Markdown etiketleri görüntülemek için [buraya](https://praveenpuglia.com/github_markdown_snippets/) tıklayın.
 
 [⬆ Yukarı Çık](#i̇çindekiler)
+
 
 ### [Terminal Kurulumu](https://packagecontrol.io/packages/Terminal)
 
@@ -816,6 +894,7 @@ Terminalleri geçerli dosyadan veya kök proje klasöründen başlatın.
 
 [⬆ Yukarı Çık](#i̇çindekiler)
 
+
 ### [OpenFilesLister Kurulumu](https://packagecontrol.io/packages/OpenFilesLister)
 
 ⚡ Açık dosyaları listeleyerek kolaylıkla geçiş yapabilirsiniz.
@@ -831,6 +910,52 @@ Terminalleri geçerli dosyadan veya kök proje klasöründen başlatın.
    * **macOS:** OPTION+P tuşlarına basın.
    * **Linux:** ALT+P tuşlarına basın.
 5. Daha sonra arama kutucuğu ile istediğiniz dosyaya erişebilirsiniz.
+
+[⬆ Yukarı Çık](#i̇çindekiler)
+
+
+### [Browser Sync Kurulumu](https://packagecontrol.io/packages/Browser%20Sync)
+
+Sublime Text 3 ile Tarayıcı Senkronizasyonunu başlatmak için bir eklenti
+
+1. Kurulum için:
+   * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
+   * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
+   * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
+2. Açılan kutucuğa **Package Control: Install Package** yazın ve **Enter** tuşuna basın.
+3. Bir sonra açılan kutucuğa **Browser Sync** yazın ve **Enter** tuşuna basın. 
+4. Örnek bir **index.html** dosyası açtıktan sonra üst menüde yer alan **Browser Sync > Launch** kısmına tıklayarak gerçek zamanlı tarayıcıyı başlatabilirsiniz.
+
+[⬆ Yukarı Çık](#i̇çindekiler)
+
+
+### [Comment-Snippets Kurulumu](https://packagecontrol.io/packages/Comment-Snippets)
+
+PHP, CSS ve HTML yorum satırları oluşturmak kullanılır.
+
+1. Kurulum için:
+   * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
+   * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
+   * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
+2. Açılan kutucuğa **Package Control: Install Package** yazın ve **Enter** tuşuna basın.
+3. Bir sonra açılan kutucuğa **Comment-Snippets** yazın ve **Enter** tuşuna basın.
+4. Örnek yorum satırlarını [görüntülemek](https://github.com/hachesilva/Comment-Snippets) için tıklayın.
+
+[⬆ Yukarı Çık](#i̇çindekiler)
+
+
+### [Package​Sync](https://packagecontrol.io/packages/PackageSync)
+
+Sublime Text 3 üzerine kuruduğunuz eklentileri ve ayarların yedeklenmesine imkan sağlayan eklenti.
+
+1. Kurulum için:
+   * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
+   * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
+   * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
+2. Açılan kutucuğa **Package Control: Install Package** yazın ve **Enter** tuşuna basın.
+3. Bir sonra açılan kutucuğa **Package​Sync** yazın ve **Enter** tuşuna basın.
+4. Yedekleme işlemi için **CTRL+Shift+P** tuşlarına birlikte basın. **Backup Packages To Zip (Recommended)** yazdıktan sonra **Enter** tuşuna basın. Masaüstüne **SublimePackagesBackup.zip** uzantılı bir dosya oluşturulacaktır. 
+5. Yedekleme geri yükleme için **CTRL+Shift+P** tuşlarına birlikte basın. **Restore Packages From Zip (Recommended)** yazdıktan sonra **Enter** tuşuna basın. Masaüstündeki **SublimePackagesBackup.zip** uzantılı dosyada yer alan eklenti ve ayarlar geri yüklecektir. Eklentinin boyutlarına göre bu işlem uzun sürebilir.
 
 [⬆ Yukarı Çık](#i̇çindekiler)
 
