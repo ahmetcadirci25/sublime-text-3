@@ -49,7 +49,7 @@
 - [OpenFilesLister](#openfileslister-kurulumu)
 - [Browser Sync](#browser-sync-kurulumu)
 - [Comment-Snippets](#comment-snippets-kurulumu)
-- [Package​Sync](#package​pync-kurulumu)
+- [Package​Sync](#packagesync-kurulumu)
 
 -----
 
