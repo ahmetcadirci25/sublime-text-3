@@ -944,7 +944,7 @@ PHP, CSS ve HTML yorum satırları oluşturmak kullanılır.
 [⬆ Yukarı Çık](#i̇çindekiler)
 
 
-### [Package​Sync](https://packagecontrol.io/packages/PackageSync)
+### [Package​Sync Kurulumu](https://packagecontrol.io/packages/PackageSync)
 
 Sublime Text 3 üzerine kuruduğunuz eklentileri ve ayarların yedeklenmesine imkan sağlayan eklenti.
 
