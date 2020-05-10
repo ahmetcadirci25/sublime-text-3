@@ -50,7 +50,7 @@
 - [Browser Sync](#browser-sync-kurulumu)
 - [Comment-Snippets](#comment-snippets-kurulumu)
 - [Package​Sync](#packagesync-kurulumu)
-- [Java​Script Enhancements](#java​script-enhancements-kurulumu)
+- [Java​Script Enhancements](#javascript-enhancements-kurulumu)
 
 -----
 
