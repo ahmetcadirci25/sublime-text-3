@@ -50,6 +50,7 @@
 - [Browser Sync](#browser-sync-kurulumu)
 - [Comment-Snippets](#comment-snippets-kurulumu)
 - [Package​Sync](#packagesync-kurulumu)
+- [Java​Script Enhancements](#java​script-enhancements-kurulumu)
 
 -----
 
@@ -956,6 +957,20 @@ Sublime Text 3 üzerine kuruduğunuz eklentileri ve ayarların yedeklenmesine im
 3. Bir sonra açılan kutucuğa **Package​Sync** yazın ve **Enter** tuşuna basın.
 4. Yedekleme işlemi için **CTRL+Shift+P** tuşlarına birlikte basın. **Backup Packages To Zip (Recommended)** yazdıktan sonra **Enter** tuşuna basın. Masaüstüne **SublimePackagesBackup.zip** uzantılı bir dosya oluşturulacaktır. 
 5. Yedekleme geri yükleme için **CTRL+Shift+P** tuşlarına birlikte basın. **Restore Packages From Zip (Recommended)** yazdıktan sonra **Enter** tuşuna basın. Masaüstündeki **SublimePackagesBackup.zip** uzantılı dosyada yer alan eklenti ve ayarlar geri yüklecektir. Eklentinin boyutlarına göre bu işlem uzun sürebilir.
+
+[⬆ Yukarı Çık](#i̇çindekiler)
+
+
+### [Java​Script Enhancements Kurulumu](https://packagecontrol.io/packages/JavaScript%20Enhancements)
+
+Sublime Text 3 JavaScript geliştirmeleri için bir eklentidir. Javascript otomatik tamamlama değil, aynı zamanda javascript projeleri oluşturma, geliştirme ve yönetme (gerçek zamanlı hatalar, kod yeniden düzenleme vb.) hakkında birçok özellik sunar.
+
+1. Kurulum için:
+   * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
+   * **macOS:** CMD+Shift+P tuşlarına birlikte basın.
+   * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
+2. Açılan kutucuğa **Package Control: Install Package** yazın ve **Enter** tuşuna basın.
+3. Bir sonra açılan kutucuğa **Java​Script Enhancements** yazın ve **Enter** tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 
 [⬆ Yukarı Çık](#i̇çindekiler)
 
