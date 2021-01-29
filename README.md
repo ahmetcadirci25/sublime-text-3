@@ -106,7 +106,20 @@ Kısaca kolay kod yazmanız için imkan sağlayan bir eklentidir. Dinamik olarak
    * **Linux:** CTRL+Shift+P tuşlarına birlikte basın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve **Enter** tuşuna basın.
 3. Bir sonra açılan kutucuğa **Emmet** yazın ve **Enter** tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
-4. Kurulum bittikten sonra deneme yapabilirsiniz.
+4. Eğer **Ctrl+E** tuşu çalışmıyorsa. Aşağıdaki  ayarları yapabilirsiniz.
+  * **Windows:** Preferences > Package Settings > Alignment > Key Bindings (User)
+  * **macOS:** Sublime Text 3 > Preferences > Package Settings > Key Bindings (User)
+  * **Linux:** Preferences > Package Settings > Alignment > Key Bindings (User)
+5. Aşağıdakileri kodu yapıştırın:
+
+```
+[
+    {
+        "keys": ["ctrl+e"],
+        "command": "emmet_expand_abbreviation"
+    }
+]
+```
 
 **Emmet kullanımına bir örnek:**
 
