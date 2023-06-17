@@ -990,6 +990,6 @@ Sublime Text 3 JavaScript geliştirmeleri için bir eklentidir. Javascript otoma
 
 ## Lisans
 
-<img width="60" alt="The Unlicense" src="https://ahmetcadirci.com.tr/sublime-text-3/media/PD-icon.svg">
+<img width="60" alt="The Unlicense" src="/sublime-text-3/media/PD-icon.svg">
 
 Bu eseri hiçbir izin almadan ticari amaçlar da dahi olmak üzere kopyalayabilir, düzenleyebilir, dağıtabilir ya da kullanabilirsiniz. Diğer bilgiler için [bakınız](https://github.com/ahmetcadirci25/sublime-text-3/blob/master/LICENSE).
