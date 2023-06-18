@@ -1,6 +1,6 @@
 ## İçindekiler
 
-- [Sublime Text 3](#sublime-text-3-kurulumu)
+- [Sublime Text](#sublime-text-kurulumu)
 - [Sublime Merge](#sublime-merge-kurulumu)
 - [Package Control](#package-control-kurulumu)
 - [Emmet](#emmet-kurulumu)
@@ -54,21 +54,21 @@
 
 -----
 
-### [Sublime Text 3 Kurulumu](https://www.sublimetext.com/)
+### [Sublime Text Kurulumu](https://www.sublimetext.com/)
 
 [Sublime Text](https://www.sublimetext.com/), içinde birçok programlama dili arayüzü barındıran, kaynak kod düzenleme ve metin editörüdür. Sublime [Package Control](#package-control-kurulumu) yardımıyla fonksiyonelitesi genişletilebilir. Buna rağmen genişleme paketlerinin pek çoğu özgür yazılım lisansı ile dağıtılmakta ve Sublime Text kullanıcılarının oluşturduğu topluluk tarafından geliştirilmektedir.
 
 İşletim sisteminize uygun olanı seçin. Kurulum dosyasını indirin ve kurulumu tamamlayın.
-  * **[Windows](https://www.sublimetext.com/3)**
-  * **[macOS](https://www.sublimetext.com/3)**
-  * **[Linux](https://www.sublimetext.com/3)**
+  * **[Windows](https://www.sublimetext.com/download)**
+  * **[macOS](https://www.sublimetext.com/download)**
+  * **[Linux](https://www.sublimetext.com/download)**
 
 [⬆ Yukarı Çık](#i̇çindekiler)
 
 
 ### [Sublime Merge Kurulumu](https://www.sublimemerge.com/)
 
-[Sublime Merge](https://www.sublimemerge.com/), Sublime Text'in yapımcıları tarafında geliştirilen Git istemcisidir. Windows, Mac ve Linux sürümleri yer almaktadur. [Sublime Text 3.2](https://www.sublimetext.com/blog/articles/sublime-text-3-point-2) sürümü ile Sublime Merge entegre haline geldi. 
+[Sublime Merge](https://www.sublimemerge.com/), Sublime Text'in yapımcıları tarafında geliştirilen Git istemcisidir. Windows, Mac ve Linux sürümleri yer almaktadur. [Sublime Text](https://www.sublimetext.com/blog/articles/sublime-text-3-point-2) sürümler ile Sublime Merge entegre haline geldi. 
 
 İşletim sisteminize uygun olanı seçin. Kurulum dosyasını indirin ve kurulumu tamamlayın.
   * **[Windows](https://www.sublimemerge.com/download)**
@@ -82,14 +82,14 @@
 
 Sublime Text eklentileri yüklemek ve yönetmek için süper kolay ve kullanışlı kılan bir araçtır. Kolay kullanımı ile eklentileri hızlı bir şekilde yükleyebilir ve özelleştirebilirsiniz.
 
-**Sublime Text 3** içerisine bir eklenti kurabilmemiz için öncelikler **Package Control**'un kurulu olması gerekir.
+**Sublime Text** içerisine bir eklenti kurabilmemiz için öncelikler **Package Control**'un kurulu olması gerekir.
 
 [https://packagecontrol.io/installation](https://packagecontrol.io/installation)
 
 1. Console açmak için:
-    * **Windows:** Sublime Text 3 > View > Show Console
-    * **macOS:** Sublime Text 3 > Preferences > View > Show Console
-    * **Linux:** Sublime Text 3 > View > Show Console
+    * **Windows:** Sublime Text > View > Show Console
+    * **macOS:** Sublime Text > Preferences > View > Show Console
+    * **Linux:** Sublime Text > View > Show Console
 2. Alt kısımda açılan yere **[Package Control](https://packagecontrol.io/installation)** sayfasında yer alan kodu yapıştırın.
 3. Kurulum tamamlandıktan sonra **CTRL+Shift+P** tuşuna basarak eklentileri kurabilirsiniz.
 
@@ -108,7 +108,7 @@ Kısaca kolay kod yazmanız için imkan sağlayan bir eklentidir. Dinamik olarak
 3. Bir sonra açılan kutucuğa **Emmet** yazın ve **Enter** tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 4. Eğer **Ctrl+E** tuşu çalışmıyorsa. Aşağıdaki  ayarları yapabilirsiniz.
   * **Windows:** Preferences > Package Settings > Alignment > Key Bindings (User)
-  * **macOS:** Sublime Text 3 > Preferences > Package Settings > Key Bindings (User)
+  * **macOS:** Sublime Text > Preferences > Package Settings > Key Bindings (User)
   * **Linux:** Preferences > Package Settings > Alignment > Key Bindings (User)
 5. Aşağıdakileri kodu yapıştırın:
 
@@ -299,7 +299,7 @@ Kodlarını hizalamanıza olanak sağlar.
 3. Bir sonra açılan kutucuğa **Alignment** yazın ve **Enter** tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 4. Ayarlar için:
    * **Windows:** Preferences > Package Settings > Alignment > Settings - User
-   * **macOS:** Sublime Text 3 > Preferences > Package Settings > Alignment * Settings - User
+   * **macOS:** Sublime Text > Preferences > Package Settings > Alignment * Settings - User
    * **Linux:** Preferences > Package Settings > Alignment > Settings - User
 5. Dosya boş olmalıdır. Aşağıdakileri kodu yapıştırın:
 
@@ -315,7 +315,7 @@ Kodlarını hizalamanıza olanak sağlar.
 7. Hizalamak istedğiniz kodu seçin ve Ctrl+Alt+A tuşuna basın.
 8. Eğer **Ctrl+Alt+A** tuşu çalışmıyorsa. Aşağıdaki  ayarları yapabilirsiniz.
   * **Windows:** Preferences > Package Settings > Alignment > Key Bindings (User)
-  * **macOS:** Sublime Text 3 > Preferences > Package Settings > Key Bindings (User)
+  * **macOS:** Sublime Text > Preferences > Package Settings > Key Bindings (User)
   * **Linux:** Preferences > Package Settings > Alignment > Key Bindings (User)
 9. Dosya boş olmalıdır. Aşağıdakileri kodu yapıştırın:
 
@@ -386,7 +386,7 @@ Git repo'yla etkileşime girmenize yardımcı olur. `Init`, `push`, `pull`, `bra
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve **Enter** tuşuna basın.
 3. Bir sonra açılan kutucuğa **Git** yazın ve **Enter** tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 4. Daha sonra **[Git](https://git-scm.com/downloads)** sayfasında programı indirin. Kurulumu tamamlayın.
-5. Sublime Text 3 editörü açın ardından **CTRL+Shift+P** tuşuna basın. Daha sonra **Git:** yazarak *Git* komutlarını kullanabilirsiniz.
+5. Sublime Text editörü açın ardından **CTRL+Shift+P** tuşuna basın. Daha sonra **Git:** yazarak *Git* komutlarını kullanabilirsiniz.
 
 [⬆ Yukarı Çık](#i̇çindekiler)
 
@@ -503,7 +503,7 @@ JavaScript, PHP ve CoffeeScript dahil olmak üzere birçok dil için kolayca dok
 4. Hizaları bozuk olan kodlarını **CTRL+Shift+H** ile düzeltebilirsiniz.
 5. Kaydettiğinizde otomatik düzeltmek için
    * **Windows:** Preferences > Package Settings > HTML-CSS-JS Prettify > Plugin Options - Default
-   * **macOS:** Sublime Text 3 > Preferences > Package Settings > HTML-CSS-JS Prettify > Plugin Options - Default
+   * **macOS:** Sublime Text > Preferences > Package Settings > HTML-CSS-JS Prettify > Plugin Options - Default
    * **Linux:** Preferences > Package Settings > HTML-CSS-JS Prettify > Plugin Options - Default
 6.  `"format_on_save": false,` olan kodu `"format_on_save": true,` hale getirin.
 
@@ -586,7 +586,7 @@ Sublime temalar yükleyerek harika görünümler elde edebilirsiniz.
 3. Bir sonra açılan kutucuğa ​**Material Theme** yazın ve **Enter** tuşuna basın. Kurulum tamamlandıktan eklenti hakkında döküman sayfası açılacaktır.
 4. Temayı aktif etmek için:
    * **Windows:** Preferences > Settings
-   * **macOS:** Sublime Text 3 > Preferences > Settings
+   * **macOS:** Sublime Text > Preferences > Settings
    * **Linux:** Preferences > Settings
 5.  Açılan sağ alana kodu yapıştırın.
 ```
@@ -732,7 +732,7 @@ Bu eklenti ile seçilen kelimeyi otomatik olarak Google'da aratabilirsiniz.
 
 ### [AdvancedNewFile Kurulumu](https://packagecontrol.io/packages/AdvancedNewFile)
 
-Sublime Text 3 için gelişmiş dosya oluşturma eklentisi. Adından da anlaşılacağı gibi, AdvancedNewFile, Sublime Text'de yeni dosya ve klasörler oluşturmayı mümkün kılar. Windows veya Mac dosyalar arasında gezinmeden, proje klasörünüzün herhangi bir düzeyinde dosya veya klasör oluşturabilirsiniz. Mutlak ve göreceli yol seçeneğine ek olarak, yeni oluşturulan dosyalar için varsayılan uzantıyı da ayarlayabilirsiniz.
+Sublime Text için gelişmiş dosya oluşturma eklentisi. Adından da anlaşılacağı gibi, AdvancedNewFile, Sublime Text'de yeni dosya ve klasörler oluşturmayı mümkün kılar. Windows veya Mac dosyalar arasında gezinmeden, proje klasörünüzün herhangi bir düzeyinde dosya veya klasör oluşturabilirsiniz. Mutlak ve göreceli yol seçeneğine ek olarak, yeni oluşturulan dosyalar için varsayılan uzantıyı da ayarlayabilirsiniz.
 
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
@@ -900,9 +900,9 @@ Terminalleri geçerli dosyadan veya kök proje klasöründen başlatın.
 2. Açılan kutucuğa **Package Control: Install Package** yazın ve **Enter** tuşuna basın.
 3. Bir sonra açılan kutucuğa **Terminal** yazın ve **Enter** tuşuna basın.
 4. Terminal ayarlarını açmak için:
-    * **Windows:** Sublime Text 3 > Preferences > Package Settings > Terminal > Settings – Default
-    * **macOS:** Sublime Text 3 > Preferences > Package Settings > Terminal > Settings – Default
-    * **Linux:** Sublime Text 3 > Preferences > Package Settings > Terminal > Settings – Default
+    * **Windows:** Sublime Text > Preferences > Package Settings > Terminal > Settings – Default
+    * **macOS:** Sublime Text > Preferences > Package Settings > Terminal > Settings – Default
+    * **Linux:** Sublime Text > Preferences > Package Settings > Terminal > Settings – Default
 5. Açılan yere **[Terminal](https://github.com/wbond/sublime_terminal#cmder-on-windows)** sayfasında yer alan kodu yapıştırın.
 6. Kurulum tamamlandıktan sonra **CTRL+Shift+T** tuşuna basarak terminali çalıştırabilirsiniz.
 
@@ -930,7 +930,7 @@ Terminalleri geçerli dosyadan veya kök proje klasöründen başlatın.
 
 ### [Browser Sync Kurulumu](https://packagecontrol.io/packages/Browser%20Sync)
 
-Sublime Text 3 ile Tarayıcı Senkronizasyonunu başlatmak için bir eklenti
+Sublime Text ile Tarayıcı Senkronizasyonunu başlatmak için bir eklenti
 
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
@@ -960,7 +960,7 @@ PHP, CSS ve HTML yorum satırları oluşturmak kullanılır.
 
 ### [Package​Sync Kurulumu](https://packagecontrol.io/packages/PackageSync)
 
-Sublime Text 3 üzerine kuruduğunuz eklentileri ve ayarların yedeklenmesine imkan sağlayan eklenti.
+Sublime Text üzerine kuruduğunuz eklentileri ve ayarların yedeklenmesine imkan sağlayan eklenti.
 
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
@@ -976,7 +976,7 @@ Sublime Text 3 üzerine kuruduğunuz eklentileri ve ayarların yedeklenmesine im
 
 ### [Java​Script Enhancements Kurulumu](https://packagecontrol.io/packages/JavaScript%20Enhancements)
 
-Sublime Text 3 JavaScript geliştirmeleri için bir eklentidir. Javascript otomatik tamamlama değil, aynı zamanda javascript projeleri oluşturma, geliştirme ve yönetme (gerçek zamanlı hatalar, kod yeniden düzenleme vb.) hakkında birçok özellik sunar.
+Sublime Text JavaScript geliştirmeleri için bir eklentidir. Javascript otomatik tamamlama değil, aynı zamanda javascript projeleri oluşturma, geliştirme ve yönetme (gerçek zamanlı hatalar, kod yeniden düzenleme vb.) hakkında birçok özellik sunar.
 
 1. Kurulum için:
    * **Windows:** CTRL+Shift+P tuşlarına birlikte basın.
